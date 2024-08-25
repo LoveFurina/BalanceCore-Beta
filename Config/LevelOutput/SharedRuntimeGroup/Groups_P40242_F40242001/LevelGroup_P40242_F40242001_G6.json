@@ -1,0 +1,4374 @@
+{
+  "GroupName": "MainMission2022306_New Group",
+  "Category": "Mission",
+  "ConfigPrefabPath": null,
+  "LevelGraph": "Config/Level/GroupGraph/F40242001/Group_F40242001_G6.json",
+  "AreaAnchorName": "LevelArea_P40242_F40242001_G6",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": false,
+  "OwnerMainMissionID": 2022306,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Far",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 16.26033,
+      "RotZ": 0.0,
+      "Usage": "LookAtCamera",
+      "LookAtCameraTemplate": "Level/Common_Adventure/Camera_Module/PinballPuzzleCam01.prefab",
+      "CustomParameter": null,
+      "Name": "Anchor1",
+      "RotY": 207.8118,
+      "ID": 1,
+      "PosX": -11.36541,
+      "PosY": 1.655676,
+      "PosZ": -5.926096,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": null,
+        "SharedValues": null
+      },
+      "Trigger": {
+        "Shape": "Sphere",
+        "Radius": 1.0,
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {
+        "MissionTrigger": {
+          "Shape": "Sphere",
+          "Radius": 6.0,
+          "DimX": 1.0,
+          "DimY": 1.0,
+          "DimZ": 1.0,
+          "Offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "PointList": [],
+          "Server": false
+        },
+        "MissionTrigger_2": {
+          "Shape": "Sphere",
+          "Radius": 15.0,
+          "DimX": 1.0,
+          "DimY": 1.0,
+          "DimZ": 1.0,
+          "Offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "PointList": [],
+          "Server": false
+        }
+      },
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop1",
+      "RotY": 174.82,
+      "ID": 300001,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102267,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop2",
+      "RotY": 174.82,
+      "ID": 300002,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102268,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop3",
+      "RotY": 174.82,
+      "ID": 300003,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102266,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop4",
+      "RotY": 174.82,
+      "ID": 300004,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop5",
+      "RotY": 174.82,
+      "ID": 300005,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop6",
+      "RotY": 174.82,
+      "ID": 300006,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 3,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 3,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop7",
+      "RotY": 174.82,
+      "ID": 300007,
+      "PosX": -13.5,
+      "PosY": 0.0,
+      "PosZ": 37.57,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 103267,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Transparent_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 10000,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "TransparentDes",
+      "RotY": 104.7913,
+      "ID": 300008,
+      "PosX": -13.53,
+      "PosY": 0.0,
+      "PosZ": 37.402,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 2.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 3.46410155,
+        "sqrMagnitude": 12.0
+      },
+      "PropID": 302,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2.0,
+            "Key": "CamDuration"
+          },
+          {
+            "Value": 0.0,
+            "Key": "WaitSecondsBeforeCut"
+          },
+          {
+            "Value": "LevelArea_P40242_F40242001_G6,Anchor1",
+            "Key": "CameraAnchorName"
+          },
+          {
+            "Value": "6,300004",
+            "Key": "CameraTargetName"
+          },
+          {
+            "Value": 222350901,
+            "Key": "FirstTalkListStart"
+          },
+          {
+            "Value": 222350902,
+            "Key": "SecondTalkListStart"
+          },
+          {
+            "Value": "DefaultEventName_2022306",
+            "Key": "CallBackEventName"
+          },
+          {
+            "Value": 1.0,
+            "Key": "FaceToCameraTarget"
+          },
+          {
+            "Value": 0.0,
+            "Key": "CutToAdventureCamera"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2.0,
+            "Key": "CamDuration"
+          },
+          {
+            "Value": 0.0,
+            "Key": "WaitSecondsBeforeCut"
+          },
+          {
+            "Value": "LevelArea_P40242_F40242001_G6,Anchor1",
+            "Key": "CameraAnchorName"
+          },
+          {
+            "Value": "6,300004",
+            "Key": "CameraTargetName"
+          },
+          {
+            "Value": 222350901,
+            "Key": "FirstTalkListStart"
+          },
+          {
+            "Value": 222350902,
+            "Key": "SecondTalkListStart"
+          },
+          {
+            "Value": "DefaultEventName_2022306",
+            "Key": "CallBackEventName"
+          },
+          {
+            "Value": 1.0,
+            "Key": "FaceToCameraTarget"
+          },
+          {
+            "Value": 0.0,
+            "Key": "CutToAdventureCamera"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {
+        "MissionTrigger": {
+          "Shape": "Sphere",
+          "Radius": 30.0,
+          "DimX": 0.0,
+          "DimY": 0.0,
+          "DimZ": 0.0,
+          "Offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "PointList": [],
+          "Server": false
+        }
+      },
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop9",
+      "RotY": 228.1036,
+      "ID": 300009,
+      "PosX": -13.68612,
+      "PosY": 0.048193,
+      "PosZ": 35.69838,
+      "IsDelete": true
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Transparent_01.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop10",
+      "RotY": 172.1725,
+      "ID": 300010,
+      "PosX": -13.68612,
+      "PosY": 0.0,
+      "PosZ": 35.69838,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop11",
+      "RotY": 110.7887,
+      "ID": 300011,
+      "PosX": -6.35,
+      "PosY": 0.0,
+      "PosZ": 44.63,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop12",
+      "RotY": 142.9398,
+      "ID": 300012,
+      "PosX": -5.33,
+      "PosY": 0.0,
+      "PosZ": 43.85,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop13",
+      "RotY": 64.43801,
+      "ID": 300013,
+      "PosX": -10.71,
+      "PosY": 0.0,
+      "PosZ": 47.92,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop14",
+      "RotY": 46.27137,
+      "ID": 300014,
+      "PosX": -12.63,
+      "PosY": 0.0,
+      "PosZ": 48.52,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop15",
+      "RotY": 106.904,
+      "ID": 300015,
+      "PosX": -3.97,
+      "PosY": 0.0,
+      "PosZ": 48.52,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop16",
+      "RotY": 123.9318,
+      "ID": 300016,
+      "PosX": -2.57,
+      "PosY": 0.0,
+      "PosZ": 47.3,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop17",
+      "RotY": 139.6836,
+      "ID": 300017,
+      "PosX": -1.4,
+      "PosY": 0.0,
+      "PosZ": 45.72,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop18",
+      "RotY": 73.37312,
+      "ID": 300018,
+      "PosX": -9.24,
+      "PosY": 0.0,
+      "PosZ": 50.99,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop19",
+      "RotY": 55.98584,
+      "ID": 300019,
+      "PosX": -11.16,
+      "PosY": 0.0,
+      "PosZ": 51.69,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102269,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "PoseNum"
+          },
+          {
+            "Value": 3,
+            "Key": "FadeOutEff"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "CustomState05",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop20",
+      "RotY": 46.50091,
+      "ID": 300020,
+      "PosX": -13.38,
+      "PosY": 0.0,
+      "PosZ": 52.12,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Transparent_01.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop21",
+      "RotY": 201.8936,
+      "ID": 300021,
+      "PosX": 5.92,
+      "PosY": 0.0,
+      "PosZ": 81.37,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Transparent_01.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop22",
+      "RotY": 194.1299,
+      "ID": 300022,
+      "PosX": 1.43,
+      "PosY": 0.0,
+      "PosZ": 68.85,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Transparent_01.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 2,
+            "Key": "EffSizeType"
+          },
+          {
+            "Value": 1,
+            "Key": "IsNotDestructObj"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop23",
+      "RotY": 206.5946,
+      "ID": 300023,
+      "PosX": -3.69,
+      "PosY": 0.0,
+      "PosZ": 58.41,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": false,
+      "InitLevelGraph": null,
+      "ValueSource": {
+        "Values": null,
+        "SharedValues": null
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": {
+        "TagComponents": null
+      },
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": {
+        "VCFollowOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "VCLookAtOffset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop24",
+      "RotY": 174.82,
+      "ID": 300024,
+      "PosX": -13.5,
+      "PosY": 1.764,
+      "PosZ": 37.57,
+      "IsDelete": false
+    }
+  ],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

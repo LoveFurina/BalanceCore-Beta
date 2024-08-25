@@ -1,0 +1,3598 @@
+{
+  "210001": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210001,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1037501318
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1696341267
+    },
+    "ItemDesc": {
+      "Hash": -1461302340
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210003": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210003,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 2094666564
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -533541853
+    },
+    "ItemDesc": {
+      "Hash": 1670865542
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210008": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210008,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 172352263
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -486487686
+    },
+    "ItemDesc": {
+      "Hash": -251448759
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210010": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210010,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 528582624
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -130257327
+    },
+    "ItemDesc": {
+      "Hash": 104781602
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210100": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210100,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1057704294
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1716544243
+    },
+    "ItemDesc": {
+      "Hash": -1481505316
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210101": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210101,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 508379647
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -150460302
+    },
+    "ItemDesc": {
+      "Hash": 84578625
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210102": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210102,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 2074463588
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -553744829
+    },
+    "ItemDesc": {
+      "Hash": 1650662566
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210103": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210103,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -654419767
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1012339112
+    },
+    "ItemDesc": {
+      "Hash": -1078220789
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210104": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210104,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 911664174
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 609054585
+    },
+    "ItemDesc": {
+      "Hash": 844093512
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210105": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210105,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1817219181
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -2119828770
+    },
+    "ItemDesc": {
+      "Hash": -1884789843
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210106": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210106,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -251135240
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1771853999
+    },
+    "ItemDesc": {
+      "Hash": -318705902
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210107": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210107,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1314948701
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -957029356
+    },
+    "ItemDesc": {
+      "Hash": 1247378039
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210108": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210108,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1413934654
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -2072774603
+    },
+    "ItemDesc": {
+      "Hash": -1837735676
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210109": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210109,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 152149287
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -506690662
+    },
+    "ItemDesc": {
+      "Hash": -271651735
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210110": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210110,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1057704293
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1716544244
+    },
+    "ItemDesc": {
+      "Hash": -1481505315
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210111": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210111,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 508379648
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -150460303
+    },
+    "ItemDesc": {
+      "Hash": 84578626
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210112": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210112,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 2074463589
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -553744830
+    },
+    "ItemDesc": {
+      "Hash": 1650662567
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210113": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210113,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -654419766
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1012339111
+    },
+    "ItemDesc": {
+      "Hash": -1078220788
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210114": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210114,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 911664175
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 609054584
+    },
+    "ItemDesc": {
+      "Hash": 844093513
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210115": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210115,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1817219180
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -2119828771
+    },
+    "ItemDesc": {
+      "Hash": -1884789842
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210200": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210200,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 810907625
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -412582328
+    },
+    "ItemDesc": {
+      "Hash": 387106603
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210201": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210201,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -755176316
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1978666269
+    },
+    "ItemDesc": {
+      "Hash": -1178977338
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210202": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210202,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1973707039
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1575381742
+    },
+    "ItemDesc": {
+      "Hash": 1549906017
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210203": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210203,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 407623098
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1153501613
+    },
+    "ItemDesc": {
+      "Hash": -16177924
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210204": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210204,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1514691203
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1913016500
+    },
+    "ItemDesc": {
+      "Hash": -1582261865
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210205": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210205,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1214192152
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 346932559
+    },
+    "ItemDesc": {
+      "Hash": 1146621490
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210206": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210206,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -351891789
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 750217086
+    },
+    "ItemDesc": {
+      "Hash": -419462451
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210207": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210207,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1917975730
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -815866855
+    },
+    "ItemDesc": {
+      "Hash": -1985546392
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210208": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210208,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 454677265
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -768812688
+    },
+    "ItemDesc": {
+      "Hash": 30876243
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210209": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210209,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1111406676
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1960070667
+    },
+    "ItemDesc": {
+      "Hash": -1535207698
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210210": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210210,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 810907626
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -412582329
+    },
+    "ItemDesc": {
+      "Hash": 387106604
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210211": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210211,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -755176315
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1978666270
+    },
+    "ItemDesc": {
+      "Hash": -1178977337
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210212": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210212,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1973707040
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1575381743
+    },
+    "ItemDesc": {
+      "Hash": 1549906018
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210213": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210213,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 407623099
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1153501612
+    },
+    "ItemDesc": {
+      "Hash": -16177923
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210214": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210214,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1514691202
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1913016499
+    },
+    "ItemDesc": {
+      "Hash": -1582261864
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210215": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210215,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1214192153
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 346932558
+    },
+    "ItemDesc": {
+      "Hash": 1146621491
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210216": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210216,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -351891788
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 750217085
+    },
+    "ItemDesc": {
+      "Hash": -419462450
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210217": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210217,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1917975729
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -815866856
+    },
+    "ItemDesc": {
+      "Hash": -1985546391
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210218": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210218,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 454677266
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -768812689
+    },
+    "ItemDesc": {
+      "Hash": 30876244
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210219": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210219,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1111406675
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1960070666
+    },
+    "ItemDesc": {
+      "Hash": -1535207697
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210220": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210220,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 810907623
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -412582330
+    },
+    "ItemDesc": {
+      "Hash": 387106605
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210221": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210221,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -755176318
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1978666271
+    },
+    "ItemDesc": {
+      "Hash": -1178977336
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210222": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210222,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1973707037
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1575381744
+    },
+    "ItemDesc": {
+      "Hash": 1549906019
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210223": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210223,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 407623096
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1153501611
+    },
+    "ItemDesc": {
+      "Hash": -16177922
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210224": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210224,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1514691205
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1913016498
+    },
+    "ItemDesc": {
+      "Hash": -1582261863
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210225": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210225,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1214192150
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 346932557
+    },
+    "ItemDesc": {
+      "Hash": 1146621492
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210226": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210226,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -351891791
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 750217084
+    },
+    "ItemDesc": {
+      "Hash": -419462449
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210227": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210227,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1917975732
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -815866857
+    },
+    "ItemDesc": {
+      "Hash": -1985546390
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210228": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210228,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 454677263
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -768812690
+    },
+    "ItemDesc": {
+      "Hash": 30876245
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210229": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210229,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1111406678
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1960070665
+    },
+    "ItemDesc": {
+      "Hash": -1535207696
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210300": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210300,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379292
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869245
+    },
+    "ItemDesc": {
+      "Hash": -1199180314
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210301": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210301,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704649
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785304
+    },
+    "ItemDesc": {
+      "Hash": 366903627
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210302": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210302,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420122
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298637
+    },
+    "ItemDesc": {
+      "Hash": -36380900
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210303": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210303,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504063
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584718
+    },
+    "ItemDesc": {
+      "Hash": 1529703041
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210304": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210304,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989176
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729583
+    },
+    "ItemDesc": {
+      "Hash": 1126418514
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210305": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210305,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894179
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813524
+    },
+    "ItemDesc": {
+      "Hash": -1602464841
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210306": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210306,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178706
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069831
+    },
+    "ItemDesc": {
+      "Hash": -2005749368
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210307": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210307,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094765
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014110
+    },
+    "ItemDesc": {
+      "Hash": -439665427
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210308": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210308,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609652
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867691
+    },
+    "ItemDesc": {
+      "Hash": -1555410674
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210309": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210309,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474289
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015664
+    },
+    "ItemDesc": {
+      "Hash": 10673267
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210310": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210310,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379291
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869246
+    },
+    "ItemDesc": {
+      "Hash": -1199180313
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210311": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210311,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704650
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785305
+    },
+    "ItemDesc": {
+      "Hash": 366903628
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210312": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210312,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420123
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298636
+    },
+    "ItemDesc": {
+      "Hash": -36380899
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210313": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210313,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504064
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584719
+    },
+    "ItemDesc": {
+      "Hash": 1529703042
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210314": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210314,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989177
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729582
+    },
+    "ItemDesc": {
+      "Hash": 1126418515
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210315": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210315,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894178
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813523
+    },
+    "ItemDesc": {
+      "Hash": -1602464840
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210316": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210316,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178705
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069832
+    },
+    "ItemDesc": {
+      "Hash": -2005749367
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210317": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210317,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094764
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014109
+    },
+    "ItemDesc": {
+      "Hash": -439665426
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210318": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210318,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609651
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867690
+    },
+    "ItemDesc": {
+      "Hash": -1555410673
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210319": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210319,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474290
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015665
+    },
+    "ItemDesc": {
+      "Hash": 10673268
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210320": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210320,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379294
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869247
+    },
+    "ItemDesc": {
+      "Hash": -1199180312
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210321": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210321,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704647
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785306
+    },
+    "ItemDesc": {
+      "Hash": 366903629
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210322": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210322,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420120
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298635
+    },
+    "ItemDesc": {
+      "Hash": -36380898
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210323": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210323,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504061
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584720
+    },
+    "ItemDesc": {
+      "Hash": 1529703043
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210324": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210324,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989174
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729581
+    },
+    "ItemDesc": {
+      "Hash": 1126418516
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210325": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210325,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894181
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813522
+    },
+    "ItemDesc": {
+      "Hash": -1602464839
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210326": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210326,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178708
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069833
+    },
+    "ItemDesc": {
+      "Hash": -2005749366
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210327": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210327,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094767
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014108
+    },
+    "ItemDesc": {
+      "Hash": -439665425
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210328": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210328,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609654
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867689
+    },
+    "ItemDesc": {
+      "Hash": -1555410672
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210329": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210329,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474287
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015666
+    },
+    "ItemDesc": {
+      "Hash": 10673269
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210330": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210330,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379293
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869248
+    },
+    "ItemDesc": {
+      "Hash": -1199180311
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210331": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210331,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704648
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785307
+    },
+    "ItemDesc": {
+      "Hash": 366903630
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210332": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210332,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420121
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298634
+    },
+    "ItemDesc": {
+      "Hash": -36380897
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210333": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210333,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504062
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584721
+    },
+    "ItemDesc": {
+      "Hash": 1529703044
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210334": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210334,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989175
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729580
+    },
+    "ItemDesc": {
+      "Hash": 1126418517
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210335": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210335,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894180
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813521
+    },
+    "ItemDesc": {
+      "Hash": -1602464838
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210336": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210336,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178707
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069834
+    },
+    "ItemDesc": {
+      "Hash": -2005749365
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210337": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210337,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094766
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014107
+    },
+    "ItemDesc": {
+      "Hash": -439665424
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210338": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210338,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609653
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867688
+    },
+    "ItemDesc": {
+      "Hash": -1555410671
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210339": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210339,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474288
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015667
+    },
+    "ItemDesc": {
+      "Hash": 10673270
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210340": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210340,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379288
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869249
+    },
+    "ItemDesc": {
+      "Hash": -1199180310
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210341": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210341,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704653
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785308
+    },
+    "ItemDesc": {
+      "Hash": 366903631
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210342": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210342,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420126
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298633
+    },
+    "ItemDesc": {
+      "Hash": -36380896
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210343": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210343,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504067
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584722
+    },
+    "ItemDesc": {
+      "Hash": 1529703045
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210344": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210344,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989180
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729579
+    },
+    "ItemDesc": {
+      "Hash": 1126418518
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210345": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210345,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894175
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813520
+    },
+    "ItemDesc": {
+      "Hash": -1602464837
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210346": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210346,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178702
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069835
+    },
+    "ItemDesc": {
+      "Hash": -2005749364
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210347": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210347,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094761
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014106
+    },
+    "ItemDesc": {
+      "Hash": -439665423
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210348": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210348,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609648
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867687
+    },
+    "ItemDesc": {
+      "Hash": -1555410670
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210349": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210349,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474293
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015668
+    },
+    "ItemDesc": {
+      "Hash": 10673271
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210350": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210350,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379287
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869250
+    },
+    "ItemDesc": {
+      "Hash": -1199180309
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210351": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210351,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704654
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785309
+    },
+    "ItemDesc": {
+      "Hash": 366903632
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210352": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210352,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420127
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298632
+    },
+    "ItemDesc": {
+      "Hash": -36380895
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210353": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210353,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504068
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584723
+    },
+    "ItemDesc": {
+      "Hash": 1529703046
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210354": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210354,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989181
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729578
+    },
+    "ItemDesc": {
+      "Hash": 1126418519
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210355": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210355,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894174
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813519
+    },
+    "ItemDesc": {
+      "Hash": -1602464836
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210356": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210356,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1938178701
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -836069836
+    },
+    "ItemDesc": {
+      "Hash": -2005749363
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210357": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210357,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -372094760
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 730014105
+    },
+    "ItemDesc": {
+      "Hash": -439665422
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210358": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210358,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1131609647
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1939867686
+    },
+    "ItemDesc": {
+      "Hash": -1555410669
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210359": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210359,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 434474294
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -789015669
+    },
+    "ItemDesc": {
+      "Hash": 10673272
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210360": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210360,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -775379290
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1998869251
+    },
+    "ItemDesc": {
+      "Hash": -1199180308
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210361": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210361,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 790704651
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -432785310
+    },
+    "ItemDesc": {
+      "Hash": 366903633
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210362": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210362,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 387420124
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1133298631
+    },
+    "ItemDesc": {
+      "Hash": -36380894
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210363": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210363,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1953504065
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": -1595584724
+    },
+    "ItemDesc": {
+      "Hash": 1529703047
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210364": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210364,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": 1193989178
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 326729577
+    },
+    "ItemDesc": {
+      "Hash": 1126418520
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  },
+  "210365": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ItemFigureIconPath": "SpriteOutput/ItemFigures/210001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "",
+    "ItemIconPath": "SpriteOutput/ItemIcon/210001.png",
+    "ID": 210365,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "Usable",
+    "Rarity": "Rare",
+    "ItemName": {
+      "Hash": -1534894177
+    },
+    "PurposeType": 20,
+    "ItemBGDesc": {
+      "Hash": 1892813518
+    },
+    "ItemDesc": {
+      "Hash": -1602464835
+    },
+    "PileLimit": 999,
+    "ItemSubType": "MusicAlbum",
+    "InventoryDisplayTag": 3,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": true
+  }
+}

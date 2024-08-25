@@ -1,0 +1,862 @@
+{
+  "30011": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Thunder",
+      "Quantum"
+    ],
+    "EventIDList1": [
+      420101
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420111
+    ],
+    "NpcMonsterIDList2": [
+      3024012
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      1004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3001,
+    "MapEntranceID2": 3012402,
+    "MazeBuffID": 3110001,
+    "PreChallengeMazeID": 0,
+    "MazeGroupID1": 5,
+    "MapEntranceID": 3012401,
+    "Floor": 1,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1005713069
+    },
+    "PreLevel": 0,
+    "ID": 30011,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101401
+  },
+  "30012": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Thunder",
+      "Quantum"
+    ],
+    "EventIDList1": [
+      420102
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420112
+    ],
+    "NpcMonsterIDList2": [
+      3024012
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      1004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3001,
+    "MapEntranceID2": 3012402,
+    "MazeBuffID": 3110001,
+    "PreChallengeMazeID": 30011,
+    "MazeGroupID1": 5,
+    "MapEntranceID": 3012401,
+    "Floor": 2,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -602428542
+    },
+    "PreLevel": 0,
+    "ID": 30012,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101402
+  },
+  "30013": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Thunder",
+      "Quantum"
+    ],
+    "EventIDList1": [
+      420103
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420113
+    ],
+    "NpcMonsterIDList2": [
+      3024012
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      1004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3001,
+    "MapEntranceID2": 3012402,
+    "MazeBuffID": 3110001,
+    "PreChallengeMazeID": 30012,
+    "MazeGroupID1": 5,
+    "MapEntranceID": 3012401,
+    "Floor": 3,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": 2126454813
+    },
+    "PreLevel": 0,
+    "ID": 30013,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101403
+  },
+  "30014": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Thunder",
+      "Quantum"
+    ],
+    "EventIDList1": [
+      420104
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420114
+    ],
+    "NpcMonsterIDList2": [
+      3024012
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      1004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3001,
+    "MapEntranceID2": 3012402,
+    "MazeBuffID": 3110001,
+    "PreChallengeMazeID": 30013,
+    "MazeGroupID1": 5,
+    "MapEntranceID": 3012401,
+    "Floor": 4,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1765227956
+    },
+    "PreLevel": 0,
+    "ID": 30014,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101404
+  },
+  "30021": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420131
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420121
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3002,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 0,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 1,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1005713072
+    },
+    "PreLevel": 0,
+    "ID": 30021,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101401
+  },
+  "30022": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420132
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420122
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3002,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30021,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 2,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -602428545
+    },
+    "PreLevel": 0,
+    "ID": 30022,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101402
+  },
+  "30023": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420133
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420123
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3002,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30022,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 3,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": 2126454810
+    },
+    "PreLevel": 0,
+    "ID": 30023,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101403
+  },
+  "30024": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420134
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420124
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3002,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30023,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 4,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1765227959
+    },
+    "PreLevel": 0,
+    "ID": 30024,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101404
+  },
+  "30031": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Ice",
+      "Thunder",
+      "Wind"
+    ],
+    "EventIDList1": [
+      420151
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420141
+    ],
+    "NpcMonsterIDList2": [
+      8015020
+    ],
+    "DamageType2": [
+      "Fire",
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      8034012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3003,
+    "MapEntranceID2": 3012601,
+    "MazeBuffID": 3110003,
+    "PreChallengeMazeID": 0,
+    "MazeGroupID1": 9,
+    "MapEntranceID": 3012202,
+    "Floor": 1,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1005713071
+    },
+    "PreLevel": 0,
+    "ID": 30031,
+    "StageNum": 2,
+    "MazeGroupID2": 14,
+    "RewardID": 101401
+  },
+  "30032": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Ice",
+      "Thunder",
+      "Wind"
+    ],
+    "EventIDList1": [
+      420152
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420142
+    ],
+    "NpcMonsterIDList2": [
+      8015020
+    ],
+    "DamageType2": [
+      "Fire",
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      8034012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3003,
+    "MapEntranceID2": 3012601,
+    "MazeBuffID": 3110003,
+    "PreChallengeMazeID": 30031,
+    "MazeGroupID1": 9,
+    "MapEntranceID": 3012202,
+    "Floor": 2,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -602428544
+    },
+    "PreLevel": 0,
+    "ID": 30032,
+    "StageNum": 2,
+    "MazeGroupID2": 14,
+    "RewardID": 101402
+  },
+  "30033": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Ice",
+      "Thunder",
+      "Wind"
+    ],
+    "EventIDList1": [
+      420153
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420143
+    ],
+    "NpcMonsterIDList2": [
+      8015020
+    ],
+    "DamageType2": [
+      "Fire",
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      8034012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3003,
+    "MapEntranceID2": 3012601,
+    "MazeBuffID": 3110003,
+    "PreChallengeMazeID": 30032,
+    "MazeGroupID1": 9,
+    "MapEntranceID": 3012202,
+    "Floor": 3,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": 2126454811
+    },
+    "PreLevel": 0,
+    "ID": 30033,
+    "StageNum": 2,
+    "MazeGroupID2": 14,
+    "RewardID": 101403
+  },
+  "30034": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Ice",
+      "Thunder",
+      "Wind"
+    ],
+    "EventIDList1": [
+      420154
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420144
+    ],
+    "NpcMonsterIDList2": [
+      8015020
+    ],
+    "DamageType2": [
+      "Fire",
+      "Thunder",
+      "Wind",
+      "Imaginary"
+    ],
+    "NpcMonsterIDList1": [
+      8034012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3003,
+    "MapEntranceID2": 3012601,
+    "MazeBuffID": 3110003,
+    "PreChallengeMazeID": 30033,
+    "MazeGroupID1": 9,
+    "MapEntranceID": 3012202,
+    "Floor": 4,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1765227958
+    },
+    "PreLevel": 0,
+    "ID": 30034,
+    "StageNum": 2,
+    "MazeGroupID2": 14,
+    "RewardID": 101404
+  },
+  "30041": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420131
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420121
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3004,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 0,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 1,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1005713066
+    },
+    "PreLevel": 0,
+    "ID": 30041,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101401
+  },
+  "30042": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420132
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420122
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3004,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30041,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 2,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -602428539
+    },
+    "PreLevel": 0,
+    "ID": 30042,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101402
+  },
+  "30043": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420133
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420123
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3004,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30042,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 3,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": 2126454816
+    },
+    "PreLevel": 0,
+    "ID": 30043,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101403
+  },
+  "30044": {
+    "ChallengeTargetID": [
+      3001,
+      3002,
+      3003
+    ],
+    "DamageType1": [
+      "Physical",
+      "Fire",
+      "Wind",
+      "Imaginary"
+    ],
+    "EventIDList1": [
+      420134
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "MonsterID1": [],
+    "ConfigList2": [
+      200001
+    ],
+    "EventIDList2": [
+      420124
+    ],
+    "NpcMonsterIDList2": [
+      8015010
+    ],
+    "DamageType2": [
+      "Physical",
+      "Fire",
+      "Ice"
+    ],
+    "NpcMonsterIDList1": [
+      2004012
+    ],
+    "MonsterID2": [],
+    "GroupID": 3004,
+    "MapEntranceID2": 3012501,
+    "MazeBuffID": 3110002,
+    "PreChallengeMazeID": 30043,
+    "MazeGroupID1": 6,
+    "MapEntranceID": 3000205,
+    "Floor": 4,
+    "ChallengeCountDown": 0,
+    "Name": {
+      "Hash": -1765227953
+    },
+    "PreLevel": 0,
+    "ID": 30044,
+    "StageNum": 2,
+    "MazeGroupID2": 6,
+    "RewardID": 101404
+  }
+}

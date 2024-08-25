@@ -1,0 +1,120 @@
+{
+  "GroupName": "Default_Monster_R0_Pose3",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P44301_F44301003_G17",
+  "SaveType": "Permanent",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": {
+    "Conditions": [],
+    "Operation": "And"
+  },
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [
+    {
+      "NPCMonsterID": 3012020,
+      "LevelGraph": null,
+      "AIConfig": {
+        "AIFile": null,
+        "OverrideVariable": false,
+        "PathwayList": [],
+        "DefaultAIPathwayIndex": 0,
+        "SlaveConfigList": []
+      },
+      "AIVariableSource": {
+        "Values": null
+      },
+      "SOConfig": null,
+      "LoadOnInitial": true,
+      "ValueSource": {
+        "Values": null,
+        "SharedValues": null
+      },
+      "CampID": 3,
+      "BattleArea": {
+        "GroupID": 1,
+        "ID": 1
+      },
+      "Trigger": null,
+      "InitialAnimState": "SpecialStandBy1",
+      "EventID": 44301201,
+      "PurposeType": "Normal",
+      "FarmElementID": 0,
+      "BoardShowList": [
+        2
+      ],
+      "IsNeedFade": false,
+      "DefaultLookAtMode": "LookPlayer",
+      "DefaultLookAtTargetInfo": null,
+      "DefaultLookAtPositionInfo": null,
+      "NearestTeleportMappingInfoID": 0,
+      "IsClientOnly": false,
+      "TagList": [],
+      "Dialog": null,
+      "DialogueTriggerRadius": 0.0,
+      "OverrideNPCName": {
+        "hash": 371857150
+      },
+      "OverrideNPCTitle": {
+        "hash": 371857150
+      },
+      "InteractIconType": "ChatIcon",
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Monster1",
+      "RotY": 270.1,
+      "ID": 200001,
+      "PosX": -341.767,
+      "PosY": -32.186,
+      "PosZ": -77.333,
+      "IsDelete": false
+    }
+  ],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": null,
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

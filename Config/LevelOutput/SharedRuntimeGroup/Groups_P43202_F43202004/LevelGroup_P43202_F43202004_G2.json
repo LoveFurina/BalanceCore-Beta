@@ -1,0 +1,227 @@
+{
+  "GroupName": "DefaultGroup",
+  "Category": "Normal",
+  "ConfigPrefabPath": "Level/Maze/Chapter02/Chap02_MAZ_X202_LevelArea.prefab",
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P43202_F43202004_G2",
+  "SaveType": "Permanent",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": false,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": null,
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor1",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": -128.2344,
+      "PosY": 47.88573,
+      "PosZ": 20.27384,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor2",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": -128.31,
+      "PosY": 47.88573,
+      "PosZ": 20.62,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor3",
+      "RotY": 90.0,
+      "ID": 3,
+      "PosX": 24.06,
+      "PosY": 53.25401,
+      "PosZ": -19.8,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor4",
+      "RotY": 0.0,
+      "ID": 4,
+      "PosX": 35.23,
+      "PosY": 53.85181,
+      "PosZ": 90.22,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor5",
+      "RotY": 270.0,
+      "ID": 5,
+      "PosX": -52.27,
+      "PosY": 49.94773,
+      "PosZ": 130.49,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor6",
+      "RotY": 270.0,
+      "ID": 6,
+      "PosX": 95.88,
+      "PosY": 63.24,
+      "PosZ": 41.81,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "LookAtCamera",
+      "LookAtCameraTemplate": "Level/Common_Adventure/Camera_Module/UseGameplayCam02.prefab",
+      "CustomParameter": null,
+      "Name": "Anchor7",
+      "RotY": 270.0,
+      "ID": 7,
+      "PosX": 65.39,
+      "PosY": 43.6491,
+      "PosZ": 139.36,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor8",
+      "RotY": 270.0,
+      "ID": 8,
+      "PosX": 79.71,
+      "PosY": 43.6491,
+      "PosZ": 138.95,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X02_Night.enviroProfile.asset",
+      "Tags": [
+        "BattleArea01"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [],
+      "AudioState": null,
+      "AudioRTPC": null,
+      "PropsGroupID": 3,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [
+        2020319
+      ],
+      "PrefetchSubMissionList": [
+        102080114,
+        202031901
+      ],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea1",
+      "RotY": 1E-05,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X02_Boss_Night.enviroProfile.asset",
+      "Tags": [
+        "BattleArea02"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [
+        "Ev_amb_maze_xianzhou_x2_2_battle"
+      ],
+      "AudioState": [
+        {
+          "GroupName": "StateGroup_Amb_X2_2_Battle",
+          "StateName": "State_XuanluBoss_01"
+        }
+      ],
+      "AudioRTPC": null,
+      "PropsGroupID": 4,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [
+        2020318
+      ],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea2",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": null,
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

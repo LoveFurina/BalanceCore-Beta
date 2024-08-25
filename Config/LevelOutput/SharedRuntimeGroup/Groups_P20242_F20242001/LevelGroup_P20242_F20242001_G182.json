@@ -1,0 +1,5145 @@
+{
+  "GroupName": "CmdBotPuzzle_Placeholder",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P20242_F20242001_G182",
+  "SaveType": "Permanent",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": {
+    "Conditions": [],
+    "Operation": "And"
+  },
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_12.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_1_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300002",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_1_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 1.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_12.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_1_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300002",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_1_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 1.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop1",
+      "RotY": 90.0,
+      "ID": 300001,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop2",
+      "RotY": 0.0,
+      "ID": 300002,
+      "PosX": 27.8,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_18.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_2_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300004",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_2_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_18.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_2_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300004",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_2_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop3",
+      "RotY": 90.0,
+      "ID": 300003,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop4",
+      "RotY": 0.0,
+      "ID": 300004,
+      "PosX": 24.68,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_14.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_3_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_3_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 2.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_14.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_3_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_3_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 2.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop5",
+      "RotY": 90.0,
+      "ID": 300005,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop6",
+      "RotY": 0.0,
+      "ID": 300006,
+      "PosX": 21.68,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_15.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_4_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_4_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_15.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_4_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_4_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop7",
+      "RotY": 90.0,
+      "ID": 300007,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop8",
+      "RotY": 0.0,
+      "ID": 300008,
+      "PosX": 18.8,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_19.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_5_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_5_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_19.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_5_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_5_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop9",
+      "RotY": 90.0,
+      "ID": 300009,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop10",
+      "RotY": 0.0,
+      "ID": 300010,
+      "PosX": 15.92,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_1.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_6_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_6_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_1.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_6_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_6_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop11",
+      "RotY": 90.0,
+      "ID": 300011,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop12",
+      "RotY": 0.0,
+      "ID": 300012,
+      "PosX": 6.92,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_3.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_7_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_7_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 3.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_3.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_7_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_7_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 3.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop13",
+      "RotY": 90.0,
+      "ID": 300013,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop14",
+      "RotY": 0.0,
+      "ID": 300014,
+      "PosX": 3.8,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_4.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_8_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_8_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_4.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_8_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_8_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop15",
+      "RotY": 90.0,
+      "ID": 300015,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop16",
+      "RotY": 0.0,
+      "ID": 300016,
+      "PosX": 0.74,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_11.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_9_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_9_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_11.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_9_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_9_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop17",
+      "RotY": 90.0,
+      "ID": 300017,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop18",
+      "RotY": 0.0,
+      "ID": 300018,
+      "PosX": -2.26,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_8.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_10_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_10_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_8.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_10_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300006",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_10_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop19",
+      "RotY": 90.0,
+      "ID": 300019,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop20",
+      "RotY": 0.0,
+      "ID": 300020,
+      "PosX": -5.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_7.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_11_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300022",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_11_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_7.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_11_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300022",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_11_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop21",
+      "RotY": 90.0,
+      "ID": 300021,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop22",
+      "RotY": 0.0,
+      "ID": 300022,
+      "PosX": -17.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_16.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_12_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300024",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_12_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_16.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_12_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300024",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_12_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop23",
+      "RotY": 90.0,
+      "ID": 300023,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop24",
+      "RotY": 0.0,
+      "ID": 300024,
+      "PosX": -20.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_6.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_13_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300026",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_13_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_6.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_13_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300026",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_13_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop25",
+      "RotY": 90.0,
+      "ID": 300025,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop26",
+      "RotY": 0.0,
+      "ID": 300026,
+      "PosX": -23.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_17.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_14_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300028",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_14_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_17.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_14_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300028",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_14_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop27",
+      "RotY": 90.0,
+      "ID": 300027,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop28",
+      "RotY": 0.0,
+      "ID": 300028,
+      "PosX": -26.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeExtra/CommandRobotPuzzle/CommandRobotPuzzleUpgrade_Controller.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_10.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_15_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300030",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_15_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "Gameplays/CommandRobot/CommandRobotPuzzle_LkprsBlock_10.prefab",
+            "Key": "PuzzlePath"
+          },
+          {
+            "Value": "CmdBot_Upgrade_15_Begin",
+            "Key": "WaitCustomString_Begin"
+          },
+          {
+            "Value": "LevelArea_P90120_F90120005_G3,PuzzleCameraAnchor",
+            "Key": "Camera"
+          },
+          {
+            "Value": "24,300030",
+            "Key": "BeiginTrigger"
+          },
+          {
+            "Value": null,
+            "Key": "TriggerCustomString_SimpleTalk"
+          },
+          {
+            "Value": "CmdBot_Upgrade_15_Finish",
+            "Key": "TriggerCustomString_Finish"
+          },
+          {
+            "Value": 0.0,
+            "Key": "ShowTutorialType"
+          },
+          {
+            "Value": "3,400001",
+            "Key": "BotNpc"
+          },
+          {
+            "Value": 1,
+            "Key": "IsReplayTest"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop29",
+      "RotY": 90.0,
+      "ID": 300029,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100074,
+      "LoadOnInitial": false,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_Console_01.json",
+      "ValueSource": {
+        "Values": [],
+        "SharedValues": []
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop30",
+      "RotY": 0.0,
+      "ID": 300030,
+      "PosX": -29.2,
+      "PosY": 35.65639,
+      "PosZ": 10.93,
+      "IsDelete": false
+    }
+  ],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

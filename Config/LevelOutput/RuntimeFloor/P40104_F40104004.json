@@ -1,0 +1,379 @@
+{
+  "FloorID": 40104004,
+  "StartGroupIndex": 0,
+  "StartAnchorID": 1,
+  "StageData": "Stages/Outputs/Chapter02/Stages/Chap02_MAZ_X202_MainLine_01_StageData/Chap02_MAZ_X202_MainLine_01_StageData.stage",
+  "CameraType": "Maze",
+  "LayerToAreaMask": [
+    1
+  ],
+  "LevelFeatureModules": null,
+  "NavmapConfigPath": "Config/LevelOutput/Map/MapInfo_P20222_F20222001.json",
+  "RegionConfigPath": null,
+  "CustomValues": null,
+  "SavedValues": null,
+  "GroupInstanceList": [
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G12.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 12,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G13.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 13,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G14.json",
+      "Name": "BATProp",
+      "RotY": 0.0,
+      "ID": 14,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G15.json",
+      "Name": "BATBossProp",
+      "RotY": 0.0,
+      "ID": 15,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G16.json",
+      "Name": "JianMu",
+      "RotY": 0.0,
+      "ID": 16,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G17.json",
+      "Name": "Sound",
+      "RotY": 0.0,
+      "ID": 17,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G18.json",
+      "Name": "MainMission_RoadBlock",
+      "RotY": 0.0,
+      "ID": 18,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G19.json",
+      "Name": "JianMu",
+      "RotY": 0.0,
+      "ID": 19,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G20.json",
+      "Name": "MainMission_RoadBlock",
+      "RotY": 0.0,
+      "ID": 20,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G21.json",
+      "Name": "MainMission_RoadBlock",
+      "RotY": 0.0,
+      "ID": 21,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G24.json",
+      "Name": "RubikCubeActivity04",
+      "RotY": 0.0,
+      "ID": 24,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G31.json",
+      "Name": "Blockline",
+      "RotY": 0.0,
+      "ID": 31,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104004/LevelGroup_P40104_F40104004_G32.json",
+      "Name": "NPC",
+      "RotY": 0.0,
+      "ID": 32,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "DimensionList": [
+    {
+      "ID": 0,
+      "Category": "Main",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_MAZ_X202_MainLine_01_Night.enviroProfile.asset",
+      "CameraType": "Maze",
+      "BattleAreaList": [],
+      "CameraPrefabPath": null,
+      "ConstValues": null,
+      "SavedValues": null,
+      "SavedValueConfigDict": null,
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": false,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "ExclusiveSavedGroupIDList": [],
+      "StartGroupIndex": 0,
+      "StartAnchorID": 1
+    }
+  ],
+  "GroupInstanceCommonMap": {
+    "12": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "13": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "14": {
+      "IsDelete": false,
+      "Category": "BattleProps",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": {
+        "Conditions": null,
+        "Operation": "And"
+      }
+    },
+    "15": {
+      "IsDelete": false,
+      "Category": "BattleProps",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": {
+        "Conditions": null,
+        "Operation": "And"
+      }
+    },
+    "16": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": false,
+      "LoadSide": "Server",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "17": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "18": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": false,
+      "LoadSide": "Server",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "19": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": false,
+      "LoadSide": "Server",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": {
+        "Conditions": [
+          {
+            "Type": "MainMission",
+            "Phase": "Finish",
+            "ID": 1021101
+          }
+        ],
+        "Operation": "And",
+        "DelayToLevelReload": true
+      },
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "20": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": false,
+      "LoadSide": "Server",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": {
+        "Conditions": [
+          {
+            "Type": "MainMission",
+            "Phase": "Finish",
+            "ID": 1021101
+          }
+        ],
+        "Operation": "And",
+        "DelayToLevelReload": true
+      },
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "21": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": false,
+      "LoadSide": "Server",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": {
+        "Conditions": [
+          {
+            "Type": "MainMission",
+            "Phase": "Finish",
+            "ID": 1021101
+          }
+        ],
+        "Operation": "And",
+        "DelayToLevelReload": true
+      },
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "24": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "31": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "32": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    }
+  },
+  "IsRestartLevelGraph": true,
+  "EnableGroupStreaming": true,
+  "EnableGroupSpaceConflict": true,
+  "EnableGroupRegionStreaming": true,
+  "TempGroupUnloadByY": 1E+07
+}

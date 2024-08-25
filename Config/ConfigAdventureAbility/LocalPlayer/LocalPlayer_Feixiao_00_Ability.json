@@ -1,0 +1,143 @@
+{
+  "AbilityList": [
+    {
+      "Name": "LocalPlayer_Feixiao_00_NormalAtk01",
+      "OnStart": [
+        {
+          "$type": "RPG.GameCore.VCameraConfigChange"
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.EnableLocalPlayerMoveIgnoreMonster"
+            },
+            {
+              "$type": "RPG.GameCore.VCameraConfigChange"
+            },
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "SuccessTaskList": [
+                {
+                  "$type": "RPG.GameCore.LookAt"
+                }
+              ]
+            },
+            {
+              "$type": "RPG.GameCore.AdventureTriggerAnimStateWithMove"
+            },
+            {
+              "$type": "RPG.GameCore.TriggerEffect"
+            },
+            {
+              "$type": "RPG.GameCore.WaitAnimState"
+            },
+            {
+              "$type": "RPG.GameCore.SetEntityVisible"
+            },
+            {
+              "$type": "RPG.GameCore.RemoveAdventureModifier",
+              "ModifierName": "ADV_StageAbility_Maze_Feixiao_Visual"
+            },
+            {
+              "$type": "RPG.GameCore.GlobalMainIntensityEffect"
+            },
+            {
+              "$type": "RPG.GameCore.WaitAnimState"
+            },
+            {
+              "$type": "RPG.GameCore.SetEntityVisible"
+            },
+            {
+              "$type": "RPG.GameCore.WaitAnimState"
+            },
+            {
+              "$type": "RPG.GameCore.DestroySummonUnit"
+            },
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "SuccessTaskList": []
+            },
+            {
+              "$type": "RPG.GameCore.AdventureTriggerAttack",
+              "TriggerBattle": true,
+              "OnBattle": [
+                {
+                  "$type": "RPG.GameCore.AddMazeBuff",
+                  "ID": 122002
+                }
+              ]
+            },
+            {
+              "$type": "RPG.GameCore.VCameraConfigChange"
+            },
+            {
+              "$type": "RPG.GameCore.EnableLocalPlayerMoveIgnoreMonster"
+            },
+            {
+              "$type": "RPG.GameCore.RemoveAdventureModifier",
+              "ModifierName": "ADV_StageAbility_Maze_Feixiao_GatheredEnemy_Visual"
+            },
+            {
+              "$type": "RPG.GameCore.RemoveAdventureModifier",
+              "ModifierName": "ADV_StageAbility_Maze_Feixiao_GatheredEnemyElite_Visual"
+            },
+            {
+              "$type": "RPG.GameCore.WaitAnimState"
+            },
+            {
+              "$type": "RPG.GameCore.GlobalMainIntensityEffect"
+            },
+            {
+              "$type": "RPG.GameCore.RemoveMazeBuff",
+              "ID": 122001
+            }
+          ]
+        }
+      ]
+      
+    },
+    {
+      "Name": "LocalPlayer_Feixiao_00_MazeSkill",
+      "OnStart": [
+        {
+          "$type": "RPG.GameCore.TriggerEffect"
+        },
+        {
+          "$type": "RPG.GameCore.TriggerSound",
+          "ID": 0
+        },
+        {
+          "$type": "RPG.GameCore.TriggerSound",
+          "ID": 0
+        },
+        {
+          "$type": "RPG.GameCore.AddMazeBuff",
+          "ID": 122001,
+          "LifeTime": {
+            "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+            "IsDynamic": true,
+            "FixedValue": null
+          }
+        },
+        {
+          "$type": "RPG.GameCore.AddMazeBuff",
+          "ID": 122004,
+          "LifeTime": {
+            "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
+            "IsDynamic": true,
+            "FixedValue": null
+          }
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "SuccessTaskList":  [
+            {
+              "$type": "RPG.GameCore.AdventureTriggerFastRun"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

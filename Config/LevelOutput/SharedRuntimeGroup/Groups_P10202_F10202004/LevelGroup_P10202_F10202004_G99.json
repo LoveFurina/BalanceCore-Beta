@@ -1,0 +1,2295 @@
+{
+  "GroupName": "MissingBird",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P10202_F10202004_G99",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": false,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": false,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": null,
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor1",
+      "RotY": 90.00005,
+      "ID": 1,
+      "PosX": 24.21532,
+      "PosY": 4.994164,
+      "PosZ": -1.529999,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor2",
+      "RotY": 270.0001,
+      "ID": 2,
+      "PosX": 51.57,
+      "PosY": 2.630777,
+      "PosZ": -1.530001,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor3",
+      "RotY": 270.0001,
+      "ID": 3,
+      "PosX": 56.83,
+      "PosY": 3.59951,
+      "PosZ": -31.77,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "Anchor4",
+      "RotY": 270.0001,
+      "ID": 4,
+      "PosX": 25.42,
+      "PosY": 3.599509,
+      "PosZ": -28.73,
+      "IsDelete": false
+    },
+    {
+      "RotX": 15.05704,
+      "RotZ": 0.001587,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam1-1",
+      "RotY": 178.3838,
+      "ID": 5,
+      "PosX": 24.0728,
+      "PosY": 7.648413,
+      "PosZ": 4.762913,
+      "IsDelete": false
+    },
+    {
+      "RotX": 10.93173,
+      "RotZ": 0.001586,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam1-2",
+      "RotY": 265.874,
+      "ID": 6,
+      "PosX": 31.31921,
+      "PosY": 7.165678,
+      "PosZ": -1.568884,
+      "IsDelete": false
+    },
+    {
+      "RotX": 11.44793,
+      "RotZ": 0.001643,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam1-3",
+      "RotY": 0.068471,
+      "ID": 7,
+      "PosX": 23.88922,
+      "PosY": 7.203208,
+      "PosZ": -8.974102,
+      "IsDelete": false
+    },
+    {
+      "RotX": 17.29159,
+      "RotZ": 0.001576,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam2-1",
+      "RotY": 99.07581,
+      "ID": 8,
+      "PosX": 44.11659,
+      "PosY": 5.9544,
+      "PosZ": 0.201276,
+      "IsDelete": false
+    },
+    {
+      "RotX": 20.38541,
+      "RotZ": 0.001412,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam2-2",
+      "RotY": 355.4277,
+      "ID": 9,
+      "PosX": 52.44886,
+      "PosY": 5.868517,
+      "PosZ": -11.48229,
+      "IsDelete": false
+    },
+    {
+      "RotX": 16.94776,
+      "RotZ": 0.00155,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam3-1",
+      "RotY": 177.1765,
+      "ID": 10,
+      "PosX": 56.15792,
+      "PosY": 6.191531,
+      "PosZ": -23.31054,
+      "IsDelete": false
+    },
+    {
+      "RotX": 12.82246,
+      "RotZ": 0.001584,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam3-2",
+      "RotY": 85.39143,
+      "ID": 11,
+      "PosX": 48.57093,
+      "PosY": 6.112698,
+      "PosZ": -31.32418,
+      "IsDelete": false
+    },
+    {
+      "RotX": 17.97897,
+      "RotZ": 0.001778,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam4-1",
+      "RotY": 180.4465,
+      "ID": 12,
+      "PosX": 26.24578,
+      "PosY": 6.428034,
+      "PosZ": -19.1659,
+      "IsDelete": false
+    },
+    {
+      "RotX": 8.353391,
+      "RotZ": 0.001516,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam4-2",
+      "RotY": 268.7963,
+      "ID": 13,
+      "PosX": 35.03804,
+      "PosY": 5.804736,
+      "PosZ": -28.82116,
+      "IsDelete": false
+    },
+    {
+      "RotX": 17.80679,
+      "RotZ": 0.001949,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Cam4-3",
+      "RotY": 90.65358,
+      "ID": 14,
+      "PosX": 49.83236,
+      "PosY": 5.616055,
+      "PosZ": -31.55953,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor1",
+            "Key": "Pos01"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor2",
+            "Key": "Pos02"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor3",
+            "Key": "Pos03"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor4",
+            "Key": "Pos04"
+          },
+          {
+            "Value": "99,300002",
+            "Key": "Collider1-1"
+          },
+          {
+            "Value": "99,300003",
+            "Key": "Collider1-2"
+          },
+          {
+            "Value": "99,300004",
+            "Key": "Collider1-3"
+          },
+          {
+            "Value": "99,300005",
+            "Key": "Collider2-1"
+          },
+          {
+            "Value": "99,300006",
+            "Key": "Collider2-2"
+          },
+          {
+            "Value": "99,300007",
+            "Key": "Collider3-1"
+          },
+          {
+            "Value": "99,300008",
+            "Key": "Collider3-2"
+          },
+          {
+            "Value": "99,300009",
+            "Key": "Collider4-1"
+          },
+          {
+            "Value": "99,300010",
+            "Key": "Collider4-2"
+          },
+          {
+            "Value": "99,300011",
+            "Key": "Collider4-3"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-1",
+            "Key": "Cam1-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-2",
+            "Key": "Cam1-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-3",
+            "Key": "Cam1-3"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam2-1",
+            "Key": "Cam2-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam2-2",
+            "Key": "Cam2-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam3-1",
+            "Key": "Cam3-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam3-2",
+            "Key": "Cam3-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-1",
+            "Key": "Cam4-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-2",
+            "Key": "Cam4-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-3",
+            "Key": "Cam4-3"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor1",
+            "Key": "Pos01"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor2",
+            "Key": "Pos02"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor3",
+            "Key": "Pos03"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Anchor4",
+            "Key": "Pos04"
+          },
+          {
+            "Value": "99,300002",
+            "Key": "Collider1-1"
+          },
+          {
+            "Value": "99,300003",
+            "Key": "Collider1-2"
+          },
+          {
+            "Value": "99,300004",
+            "Key": "Collider1-3"
+          },
+          {
+            "Value": "99,300005",
+            "Key": "Collider2-1"
+          },
+          {
+            "Value": "99,300006",
+            "Key": "Collider2-2"
+          },
+          {
+            "Value": "99,300007",
+            "Key": "Collider3-1"
+          },
+          {
+            "Value": "99,300008",
+            "Key": "Collider3-2"
+          },
+          {
+            "Value": "99,300009",
+            "Key": "Collider4-1"
+          },
+          {
+            "Value": "99,300010",
+            "Key": "Collider4-2"
+          },
+          {
+            "Value": "99,300011",
+            "Key": "Collider4-3"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-1",
+            "Key": "Cam1-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-2",
+            "Key": "Cam1-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam1-3",
+            "Key": "Cam1-3"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam2-1",
+            "Key": "Cam2-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam2-2",
+            "Key": "Cam2-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam3-1",
+            "Key": "Cam3-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam3-2",
+            "Key": "Cam3-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-1",
+            "Key": "Cam4-1"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-2",
+            "Key": "Cam4-2"
+          },
+          {
+            "Value": "LevelArea_P10202_F10202004_G99,Cam4-3",
+            "Key": "Cam4-3"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Prop1",
+      "RotY": 0.0,
+      "ID": 300001,
+      "PosX": 43.75,
+      "PosY": 4.994163,
+      "PosZ": -15.73,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove1-2-S",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove1-2-S",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 24.58,
+        "DimY": 3.19,
+        "DimZ": 7.18,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider1-1",
+      "RotY": 0.0,
+      "ID": 300002,
+      "PosX": 21.64,
+      "PosY": 6.39,
+      "PosZ": 8.54,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove1-4",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove1-4",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 8.0,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider1-2",
+      "RotY": 270.0,
+      "ID": 300003,
+      "PosX": 36.45,
+      "PosY": 4.449,
+      "PosZ": 0.51,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove1-2",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove1-2",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 10.0,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider1-3",
+      "RotY": -2E-06,
+      "ID": 300004,
+      "PosX": 25.52,
+      "PosY": 4.449,
+      "PosZ": -14.1,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove2-3",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove2-3",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 10.0,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider2-1",
+      "RotY": 90.0,
+      "ID": 300005,
+      "PosX": 42.44,
+      "PosY": 3.657,
+      "PosZ": 1.66,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove2-1",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove2-1",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 10.0,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider2-2",
+      "RotY": 2E-06,
+      "ID": 300006,
+      "PosX": 53.755,
+      "PosY": 3.657,
+      "PosZ": -13.779,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove3-4",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove3-4",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 10.0,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider3-1",
+      "RotY": 2E-06,
+      "ID": 300007,
+      "PosX": 55.25,
+      "PosY": 3.657,
+      "PosZ": -21.15,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove3-2",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove3-2",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 16.3,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider3-2",
+      "RotY": 270.0001,
+      "ID": 300008,
+      "PosX": 47.59,
+      "PosY": 3.657,
+      "PosZ": -33.81,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove4-3",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove4-3",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 7.95,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider4-1",
+      "RotY": 180.0001,
+      "ID": 300009,
+      "PosX": 25.21,
+      "PosY": 3.657,
+      "PosZ": -18.81,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove4-1",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove4-1",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 16.3,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider4-2",
+      "RotY": 270.0001,
+      "ID": 300010,
+      "PosX": 37.05,
+      "PosY": 3.657,
+      "PosZ": -33.81,
+      "IsDelete": false
+    },
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 100,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Maze/MazeTest/Alley_Test_MissingBird_Alarm.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": "BirdMove4-3",
+            "Key": "MoveString"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": "BirdMove4-3",
+            "Key": "MoveString"
+          }
+        ]
+      },
+      "Trigger": {
+        "Shape": "Box",
+        "Radius": 1.0,
+        "DimX": 6.1,
+        "DimY": 3.19,
+        "DimZ": 2.16,
+        "Offset": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "PointList": [],
+        "Server": false
+      },
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {},
+      "BridgeStateRotations": [],
+      "StateConfigs": null,
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": null,
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": null
+      },
+      "Name": "Collider4-3",
+      "RotY": 270.0001,
+      "ID": 300011,
+      "PosX": 16.847,
+      "PosY": 3.657,
+      "PosZ": -28.526,
+      "IsDelete": false
+    }
+  ],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "NPCID": 3011,
+      "LevelGraph": null,
+      "LoadOnInitial": true,
+      "ValueSource": null,
+      "CampID": 0,
+      "UseDistrictTriggerType": false,
+      "Trigger": null,
+      "AIConfig": {
+        "AIFile": "Config/ConfigAI/Adventure/Special_NPC_Adventure/MazeNPC_FollowPlayer_Special_RobCrane_3011.json",
+        "OverrideVariable": false,
+        "PathwayList": [
+          {
+            "UseOwnerGroup": true,
+            "UseGroup": 99,
+            "UseID": 1,
+            "Type": "Reverse",
+            "StartAt": 0
+          },
+          {
+            "UseOwnerGroup": true,
+            "UseGroup": 99,
+            "UseID": 1,
+            "Type": "Reverse",
+            "StartAt": 0
+          }
+        ],
+        "DefaultAIPathwayIndex": 0,
+        "SlaveConfigList": []
+      },
+      "AIVariableSource": null,
+      "SOConfig": null,
+      "StaticNPC": false,
+      "OverrideLodTemplate": "WithoutLod",
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "ServerInteractVerificationIDList": [],
+      "IsOverrideArtModelOffset": false,
+      "OverrideArtModelOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "DefaultIdleStateName": null,
+      "DefaultBlendShapeConfigName": null,
+      "BoneEmotionName": null,
+      "IsOverrideAtlasEmotion": false,
+      "OverrideAtlasEmotion": null,
+      "DefaultLookAtMode": "LookPlayer",
+      "DefaultLookAtTargetInfo": null,
+      "DefaultLookAtPositionInfo": null,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "OverrideTriggerSound": false,
+      "SoundRange": 0.0,
+      "NPCLodType": "Normal",
+      "PossessionConfig": null,
+      "BoardShowList": [],
+      "OverrideNPCName": {
+        "hash": 371857150
+      },
+      "OverrideNPCTitle": {
+        "hash": 371857150
+      },
+      "DefaultStory": null,
+      "FirstDialogueGroupID": 0,
+      "TalkChosenType": "undefined",
+      "TalkDialogGroupIDList": [],
+      "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 900070000,
+      "FreeStyleAnimGraphName": null,
+      "OverrideSeriesID": 0,
+      "IsMapContent": false,
+      "MiniMapIconType": 0,
+      "BornType": "Mission",
+      "IsNeedFade": false,
+      "IsInitialHidden": false,
+      "InitialHiddenNodeList": [],
+      "Dialog": null,
+      "InteractIconType": "ChatIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "OverrideBehaviorType": "None",
+      "OverrideBehaviorParameter": null,
+      "OverrideReplaceMaterialKeyList": null,
+      "NearestTeleportMappingInfoID": 0,
+      "RaidID": 0,
+      "ActivityMapConditionIDList": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "SFXOnLoad": null,
+      "SpawnConfig": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "Name": "NPC1",
+      "RotY": 90.0001,
+      "ID": 400001,
+      "PosX": 24.21532,
+      "PosY": 4.994163,
+      "PosZ": -1.53,
+      "IsDelete": false
+    }
+  ],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

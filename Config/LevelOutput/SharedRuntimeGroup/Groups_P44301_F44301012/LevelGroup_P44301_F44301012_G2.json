@@ -1,0 +1,113 @@
+{
+  "GroupName": "DefaultGroup",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P44301_F44301012_G2",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": {
+    "Conditions": [],
+    "Operation": "And"
+  },
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Container",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_BAT_P101_night.enviroProfile.asset",
+      "Tags": [
+        "BattleArea01"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [
+        "Ev_WwiseMatrixReverb_VO_03_datingzhongxing"
+      ],
+      "AudioState": null,
+      "AudioRTPC": null,
+      "PropsGroupID": 1,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea1",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_BAT_P101_Boss_night.enviroProfile.asset",
+      "Tags": [
+        "BattleArea02"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [
+        "Ev_WwiseMatrixReverb_VO_24_pnkn_jiudiandatang",
+        "Ev_amb_maze_penocony_p1_1_battle"
+      ],
+      "AudioState": [
+        {
+          "GroupName": "State_Battle_Plot",
+          "StateName": "Boss_Sam"
+        }
+      ],
+      "AudioRTPC": null,
+      "PropsGroupID": 1,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea2",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": null,
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

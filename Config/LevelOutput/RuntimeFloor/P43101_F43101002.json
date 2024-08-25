@@ -1,0 +1,147 @@
+{
+  "FloorID": 43101002,
+  "StartGroupIndex": 0,
+  "StartAnchorID": 1,
+  "StageData": "Stages/Outputs/Chapter01/Stages/Chap01_MAZ_M203_MainLine_01_StageData/Chap01_MAZ_M203_MainLine_01_StageData.stage",
+  "CameraType": "Maze",
+  "LayerToAreaMask": [
+    16,
+    8
+  ],
+  "LevelFeatureModules": null,
+  "NavmapConfigPath": "Config/LevelOutput/Map/MapInfo_P20123_F20123001.json",
+  "RegionConfigPath": null,
+  "CustomValues": null,
+  "SavedValues": null,
+  "GroupInstanceList": [
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P43101_F43101002/LevelGroup_P43101_F43101002_G1.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P43101_F43101002/LevelGroup_P43101_F43101002_G2.json",
+      "Name": "PlayerStart",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P43101_F43101002/LevelGroup_P43101_F43101002_G3.json",
+      "Name": "Sound",
+      "RotY": 0.0,
+      "ID": 3,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P43101_F43101002/LevelGroup_P43101_F43101002_G4.json",
+      "Name": "MainMission2010202_01",
+      "RotY": 0.0,
+      "ID": 4,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "DimensionList": [
+    {
+      "ID": 0,
+      "Category": "Main",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter01/EnviroProfile/Chap01_CloseView_ADV_Area_M203_01_Night.enviroProfile.asset",
+      "CameraType": "Maze",
+      "BattleAreaList": null,
+      "CameraPrefabPath": null,
+      "ConstValues": null,
+      "SavedValues": null,
+      "SavedValueConfigDict": null,
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": false,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "ExclusiveSavedGroupIDList": [],
+      "StartGroupIndex": 0,
+      "StartAnchorID": 1
+    }
+  ],
+  "GroupInstanceCommonMap": {
+    "1": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "2": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "3": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "4": {
+      "IsDelete": false,
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": false,
+      "LoadSide": "Client",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": {
+        "Conditions": [
+          {
+            "Type": "SubMission",
+            "Phase": "Finish",
+            "ID": 201020201
+          }
+        ],
+        "Operation": "And",
+        "DelayToLevelReload": false
+      },
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    }
+  },
+  "IsRestartLevelGraph": false,
+  "EnableGroupStreaming": false,
+  "EnableGroupSpaceConflict": false,
+  "EnableGroupRegionStreaming": true,
+  "TempGroupUnloadByY": 1E+07
+}

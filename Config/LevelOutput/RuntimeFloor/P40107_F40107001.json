@@ -1,0 +1,521 @@
+{
+  "FloorID": 40107001,
+  "StartGroupIndex": 0,
+  "StartAnchorID": 1,
+  "StageData": "Stages/Outputs/Chapter02/Stages/Chap02_MAZ_X402_MainLine_01_StageData/Chap02_MAZ_X402_MainLine_01_StageData.stage",
+  "CameraType": "Maze",
+  "LayerToAreaMask": [
+    8,
+    16,
+    32
+  ],
+  "LevelFeatureModules": null,
+  "NavmapConfigPath": "Config/LevelOutput/Map/MapInfo_P20242_F20242001.json",
+  "RegionConfigPath": "Config/LevelOutput/Region/FloorRegion_P20242_F20242001.json",
+  "CustomValues": [
+    {
+      "DefaultValue": 0.0,
+      "ID": 10001,
+      "Name": "FCV_2.5_Arena"
+    }
+  ],
+  "SavedValues": [
+    {
+      "ID": 1,
+      "Name": "FSV_2.5_Arena",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    },
+    {
+      "ID": 2,
+      "Name": "FSV_EngineLight",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    }
+  ],
+  "GroupInstanceList": [
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G1.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G2.json",
+      "Name": "Sound",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G3.json",
+      "Name": "ArenaControl",
+      "RotY": 0.0,
+      "ID": 3,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G4.json",
+      "Name": "MainMission8025141_01",
+      "RotY": 0.0,
+      "ID": 4,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G5.json",
+      "Name": "Door_L",
+      "RotY": 0.0,
+      "ID": 5,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G6.json",
+      "Name": "LightControl Group",
+      "RotY": 0.0,
+      "ID": 6,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G7.json",
+      "Name": "3DText",
+      "RotY": 0.0,
+      "ID": 7,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G9.json",
+      "Name": "MainMission8025141_01",
+      "RotY": 0.0,
+      "ID": 9,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40107_F40107001/LevelGroup_P40107_F40107001_G12.json",
+      "Name": "MainMission8025141_01",
+      "RotY": 0.0,
+      "ID": 12,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "DimensionList": [
+    {
+      "ID": 0,
+      "Category": "Main",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_MAZ_X402_Mainline_Day.enviroProfile.asset",
+      "CameraType": "Maze",
+      "BattleAreaList": [
+        {
+          "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X402_01_Mainline_Day.enviroProfile.asset",
+          "Tags": [
+            "BattleArea01"
+          ],
+          "TagContainer": [],
+          "AnchorPrefabPath": null,
+          "AudioEnterEvent": null,
+          "AudioState": null,
+          "AudioRTPC": null,
+          "PropsGroupID": 1,
+          "AudienceGroupIDList": [],
+          "PrefetchMainMissionList": [],
+          "PrefetchSubMissionList": [],
+          "OverrideBGMLow": null,
+          "OverrideBGMHigh": null,
+          "Name": "BattleArea1",
+          "RotY": 0.0,
+          "ID": 1,
+          "PosX": 0.0,
+          "PosY": 0.0,
+          "PosZ": 0.0,
+          "IsDelete": false
+        },
+        {
+          "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X402_02_Mainline_Day.enviroProfile.asset",
+          "Tags": [
+            "BattleArea02"
+          ],
+          "TagContainer": [],
+          "AnchorPrefabPath": null,
+          "AudioEnterEvent": null,
+          "AudioState": null,
+          "AudioRTPC": null,
+          "PropsGroupID": 7,
+          "AudienceGroupIDList": [
+            0
+          ],
+          "PrefetchMainMissionList": [],
+          "PrefetchSubMissionList": [],
+          "OverrideBGMLow": null,
+          "OverrideBGMHigh": null,
+          "Name": "BattleArea2",
+          "RotY": 0.0,
+          "ID": 2,
+          "PosX": 0.0,
+          "PosY": 0.0,
+          "PosZ": 0.0,
+          "IsDelete": false
+        }
+      ],
+      "CameraPrefabPath": null,
+      "ConstValues": [
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 1,
+          "Name": "RegionTeleport_1"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 2,
+          "Name": "RegionTeleport_2"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 3,
+          "Name": "RegionTeleport_3"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 4,
+          "Name": "RegionTeleport_4"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 5,
+          "Name": "RegionTeleport_5"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 6,
+          "Name": "RegionTeleport_6"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 7,
+          "Name": "RegionTeleport_7"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 8,
+          "Name": "RegionTeleport_8"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 9,
+          "Name": "RegionTeleport_9"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 10,
+          "Name": "RegionTeleport_10"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 11,
+          "Name": "RegionTeleport_11"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 12,
+          "Name": "RegionTeleport_12"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 13,
+          "Name": "RegionAirLock_1"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 14,
+          "Name": "RegionAirLock_2"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 15,
+          "Name": "RegionAirLock_3"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 16,
+          "Name": "RegionAirLock_4"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 17,
+          "Name": "RegionAirLock_5"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 18,
+          "Name": "RegionAirLock_6"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 1,
+          "InstanceID": 2,
+          "ID": 19,
+          "Name": "RegionAirLock_7"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 20,
+          "Name": "RegionAirLock_8"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 21,
+          "Name": "RegionAirLock_9"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 22,
+          "Name": "RegionAirLock_10"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 23,
+          "Name": "RegionAirLock_11"
+        }
+      ],
+      "SavedValues": [
+        {
+          "ID": 1,
+          "Name": "FSV_2.5_Arena",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        },
+        {
+          "ID": 2,
+          "Name": "FSV_EngineLight",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        }
+      ],
+      "SavedValueConfigDict": null,
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": false,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "ExclusiveSavedGroupIDList": [],
+      "StartGroupIndex": 0,
+      "StartAnchorID": 1
+    }
+  ],
+  "GroupInstanceCommonMap": {
+    "1": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "2": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "3": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "4": {
+      "IsDelete": false,
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "5": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "6": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "7": {
+      "IsDelete": false,
+      "Category": "BattleProps",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": {
+        "Conditions": [],
+        "Operation": "And"
+      }
+    },
+    "9": {
+      "IsDelete": false,
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "12": {
+      "IsDelete": false,
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": false,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    }
+  },
+  "IsRestartLevelGraph": true,
+  "EnableGroupStreaming": true,
+  "EnableGroupSpaceConflict": true,
+  "EnableGroupRegionStreaming": true,
+  "TempGroupUnloadByY": 1E+07
+}

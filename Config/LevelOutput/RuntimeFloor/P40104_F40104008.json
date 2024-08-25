@@ -1,0 +1,346 @@
+{
+  "FloorID": 40104008,
+  "StartGroupIndex": 0,
+  "StartAnchorID": 1,
+  "StageData": "Stages/Outputs/Chapter02/Stages/Chap02_MAZ_X401_MainLine_01_StageData/Chap02_MAZ_X401_MainLine_01_StageData.stage",
+  "CameraType": "Maze",
+  "LayerToAreaMask": [
+    128,
+    64,
+    32,
+    16,
+    8
+  ],
+  "LevelFeatureModules": null,
+  "NavmapConfigPath": "Config/LevelOutput/Map/MapInfo_P20241_F20241001.json",
+  "RegionConfigPath": "Config/LevelOutput/Region/FloorRegion_P20241_F20241001.json",
+  "CustomValues": null,
+  "SavedValues": [
+    {
+      "ID": 1,
+      "Name": "RotLevel_01",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    },
+    {
+      "ID": 2,
+      "Name": "KeyLevelChange",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    },
+    {
+      "ID": 3,
+      "Name": "FSV_KeyLevel",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    },
+    {
+      "ID": 4,
+      "Name": "MapChange",
+      "DefaultValue": 0,
+      "AllowedValues": [
+        0,
+        1
+      ],
+      "MaxValue": 1,
+      "MinValue": 0
+    }
+  ],
+  "GroupInstanceList": [
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G2.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G3.json",
+      "Name": "BlockProjection",
+      "RotY": 0.0,
+      "ID": 3,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G4.json",
+      "Name": "Wall",
+      "RotY": 0.0,
+      "ID": 4,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G5.json",
+      "Name": "NPC",
+      "RotY": 0.0,
+      "ID": 5,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G6.json",
+      "Name": "New Group",
+      "RotY": 0.0,
+      "ID": 6,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P40104_F40104008/LevelGroup_P40104_F40104008_G7.json",
+      "Name": "Sound",
+      "RotY": 0.0,
+      "ID": 7,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "DimensionList": [
+    {
+      "ID": 0,
+      "Category": "Main",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_MAZ_X401_MainLine_01_Day.enviroProfile.asset",
+      "CameraType": "Maze",
+      "BattleAreaList": [
+        {
+          "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X401_MainLine_01_Day.enviroProfile.asset",
+          "Tags": [
+            "BattleArea1"
+          ],
+          "TagContainer": [],
+          "AnchorPrefabPath": null,
+          "AudioEnterEvent": [
+            "Ev_WwiseMatrixReverb_VO_03_datingzhongxing"
+          ],
+          "AudioState": null,
+          "AudioRTPC": null,
+          "PropsGroupID": 0,
+          "AudienceGroupIDList": null,
+          "PrefetchMainMissionList": [],
+          "PrefetchSubMissionList": [],
+          "OverrideBGMLow": null,
+          "OverrideBGMHigh": null,
+          "Name": "BattleArea1",
+          "RotY": 0.0,
+          "ID": 1,
+          "PosX": 0.0,
+          "PosY": 0.0,
+          "PosZ": 0.0,
+          "IsDelete": false
+        }
+      ],
+      "CameraPrefabPath": null,
+      "ConstValues": [
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 1,
+          "Name": "To2floor"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 2,
+          "Name": "To3floor"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 3,
+          "Name": "2floorTo"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 4,
+          "Name": "3floorTo"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 5,
+          "Name": "To5floor"
+        },
+        {
+          "AgentType": "Anchor",
+          "GroupID": 0,
+          "InstanceID": 0,
+          "ID": 6,
+          "Name": "5floorTo"
+        }
+      ],
+      "SavedValues": [
+        {
+          "ID": 1,
+          "Name": "RotLevel_01",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        },
+        {
+          "ID": 2,
+          "Name": "KeyLevelChange",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        },
+        {
+          "ID": 3,
+          "Name": "FSV_KeyLevel",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        },
+        {
+          "ID": 4,
+          "Name": "MapChange",
+          "DefaultValue": 0,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1,
+          "MinValue": 0
+        }
+      ],
+      "SavedValueConfigDict": null,
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": false,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "ExclusiveSavedGroupIDList": [],
+      "StartGroupIndex": 0,
+      "StartAnchorID": 1
+    }
+  ],
+  "GroupInstanceCommonMap": {
+    "2": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "3": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "4": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "5": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "6": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "7": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    }
+  },
+  "IsRestartLevelGraph": true,
+  "EnableGroupStreaming": true,
+  "EnableGroupSpaceConflict": true,
+  "EnableGroupRegionStreaming": true,
+  "TempGroupUnloadByY": 1E+07
+}

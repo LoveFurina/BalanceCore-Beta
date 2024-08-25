@@ -1,0 +1,182 @@
+{
+  "101": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 1030792152
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 101,
+    "BranchEffectDesc": {
+      "Hash": 2115959885
+    }
+  },
+  "102": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 1030792152
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 102,
+    "BranchEffectDesc": {
+      "Hash": 2115959724
+    }
+  },
+  "103": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 1030792152
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 103,
+    "BranchEffectDesc": {
+      "Hash": 2115959819
+    }
+  },
+  "201": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 515396076
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 201,
+    "BranchEffectDesc": {
+      "Hash": 2115956620
+    }
+  },
+  "202": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 515396076
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 202,
+    "BranchEffectDesc": {
+      "Hash": 2115956653
+    }
+  },
+  "203": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 2061584304
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 203,
+    "BranchEffectDesc": {
+      "Hash": 2115956686
+    }
+  },
+  "301": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 343597384
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 301,
+    "BranchEffectDesc": {
+      "Hash": 2115957707
+    }
+  },
+  "302": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 171798692
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 302,
+    "BranchEffectDesc": {
+      "Hash": 2115957678
+    }
+  },
+  "303": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 687194768
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 303,
+    "BranchEffectDesc": {
+      "Hash": 2115957773
+    }
+  },
+  "401": {
+    "ParamList": [
+      {
+        "Value": 429496729600
+      },
+      {
+        "Value": 515396076
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 401,
+    "BranchEffectDesc": {
+      "Hash": 2115954442
+    }
+  },
+  "402": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 515396076
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 402,
+    "BranchEffectDesc": {
+      "Hash": 2115954343
+    }
+  },
+  "403": {
+    "ParamList": [
+      {
+        "Value": 4294967296
+      },
+      {
+        "Value": 687194768
+      }
+    ],
+    "AeonID": 9,
+    "BranchID": 403,
+    "BranchEffectDesc": {
+      "Hash": 2115954376
+    }
+  }
+}

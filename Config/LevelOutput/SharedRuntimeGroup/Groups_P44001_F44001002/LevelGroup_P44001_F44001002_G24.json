@@ -1,0 +1,308 @@
+{
+  "GroupName": "MainMission4070012_New Group",
+  "Category": "Mission",
+  "ConfigPrefabPath": null,
+  "LevelGraph": "Config/Level/GroupGraph/F44001002/Group_F44001002_G24.json",
+  "AreaAnchorName": "LevelArea_P44001_F44001002_G24",
+  "SaveType": "Permanent",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Server",
+  "LoadOnInitial": false,
+  "OwnerMainMissionID": 4070012,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [
+    {
+      "NPCMonsterID": 8012030,
+      "LevelGraph": null,
+      "AIConfig": {
+        "AIFile": null,
+        "OverrideVariable": false,
+        "PathwayList": [],
+        "DefaultAIPathwayIndex": 0,
+        "SlaveConfigList": []
+      },
+      "AIVariableSource": null,
+      "SOConfig": null,
+      "LoadOnInitial": true,
+      "ValueSource": {
+        "Values": null,
+        "SharedValues": null
+      },
+      "CampID": 3,
+      "BattleArea": {
+        "GroupID": 7,
+        "ID": 1
+      },
+      "Trigger": null,
+      "InitialAnimState": "None",
+      "EventID": 40002048,
+      "PurposeType": "Normal",
+      "FarmElementID": 0,
+      "BoardShowList": [
+        2
+      ],
+      "IsNeedFade": false,
+      "DefaultLookAtMode": "LookPlayer",
+      "DefaultLookAtTargetInfo": null,
+      "DefaultLookAtPositionInfo": null,
+      "NearestTeleportMappingInfoID": 0,
+      "IsClientOnly": false,
+      "TagList": [],
+      "Dialog": null,
+      "DialogueTriggerRadius": 0.0,
+      "OverrideNPCName": {
+        "hash": 371857150
+      },
+      "OverrideNPCTitle": {
+        "hash": 371857150
+      },
+      "InteractIconType": "ChatIcon",
+      "SpawnConfig": null,
+      "Name": "Monster1",
+      "RotY": 7.704309,
+      "ID": 200001,
+      "PosX": 145.47,
+      "PosY": 79.89843,
+      "PosZ": 139.99,
+      "IsDelete": false
+    }
+  ],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "NPCID": 3015,
+      "LevelGraph": null,
+      "LoadOnInitial": true,
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": null,
+            "Key": "Portal"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": null,
+            "Key": "Portal"
+          }
+        ]
+      },
+      "CampID": 0,
+      "UseDistrictTriggerType": false,
+      "Trigger": null,
+      "AIConfig": null,
+      "AIVariableSource": null,
+      "SOConfig": null,
+      "StaticNPC": false,
+      "OverrideLodTemplate": "WithoutLod",
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "ServerInteractVerificationIDList": [],
+      "IsOverrideArtModelOffset": false,
+      "OverrideArtModelOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "DefaultIdleStateName": null,
+      "DefaultBlendShapeConfigName": null,
+      "BoneEmotionName": null,
+      "IsOverrideAtlasEmotion": false,
+      "OverrideAtlasEmotion": null,
+      "DefaultLookAtMode": "Closed",
+      "DefaultLookAtTargetInfo": null,
+      "DefaultLookAtPositionInfo": null,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "OverrideTriggerSound": false,
+      "SoundRange": 0.0,
+      "NPCLodType": "Normal",
+      "PossessionConfig": null,
+      "BoardShowList": [
+        8
+      ],
+      "OverrideNPCName": {
+        "hash": 371857150
+      },
+      "OverrideNPCTitle": {
+        "hash": 371857150
+      },
+      "DefaultStory": null,
+      "FirstDialogueGroupID": 0,
+      "TalkChosenType": "undefined",
+      "TalkDialogGroupIDList": [],
+      "DefaultAnimationType": "IdleState",
+      "DefaultIdleFreeStyleMotionID": 0,
+      "FreeStyleAnimGraphName": null,
+      "OverrideSeriesID": 0,
+      "IsMapContent": false,
+      "MiniMapIconType": 0,
+      "BornType": "Mission",
+      "IsNeedFade": false,
+      "IsInitialHidden": false,
+      "InitialHiddenNodeList": [],
+      "Dialog": null,
+      "InteractIconType": "ChatIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": null,
+      "OverrideBehaviorType": "None",
+      "OverrideBehaviorParameter": null,
+      "OverrideReplaceMaterialKeyList": null,
+      "NearestTeleportMappingInfoID": 0,
+      "RaidID": 0,
+      "ActivityMapConditionIDList": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": null,
+      "CameraConfig": null,
+      "SFXOnLoad": null,
+      "SpawnConfig": {
+        "TryCapture": true,
+        "CaptureDistanceTolerance": 10.0,
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": {
+        "ConfigType": "ByEntityType",
+        "Npc": false,
+        "NpcMonster": false,
+        "LocalPlayer": true,
+        "Teammember": true,
+        "FakePlayer": false,
+        "TargetList": null,
+        "EvaluatedInstances": null
+      },
+      "Name": "NPC1",
+      "RotY": 269.7551,
+      "ID": 400001,
+      "PosX": 186.59,
+      "PosY": 82.84203,
+      "PosZ": 157.61,
+      "IsDelete": false
+    }
+  ],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": null,
+  "SmartObjectList": [
+    {
+      "SlotList": [
+        {
+          "PlayeMode": "Sequence",
+          "PointList": [
+            {
+              "PosX": 0.0,
+              "PosY": 0.0,
+              "PosZ": 0.0,
+              "RotY": 0.0,
+              "RestartMode": "RestartFromSO",
+              "RootTask": {
+                "IsLoop": false,
+                "IsShuffle": false,
+                "Tasks": [
+                  {
+                    "PositionType": "SmartObjectPoint",
+                    "MoveStance": "Run",
+                    "StartRunDistance": 10.0,
+                    "StartSprintDistance": 8.0,
+                    "FreeScaleDistance": 6.0,
+                    "ScaleInterval": 0.1,
+                    "TransitionTime": 0.25,
+                    "PlayerSpeedRatio": 1.0,
+                    "ScaleStep": 0.3,
+                    "TaskEnabled": true,
+                    "IsClientOnly": true
+                  },
+                  {
+                    "Time": 0.0,
+                    "TaskEnabled": true,
+                    "IsClientOnly": true
+                  },
+                  {
+                    "StoryAvatarID": null,
+                    "StoryMotionID": 900030243,
+                    "ForceStart": true,
+                    "NormalizedTimeWait": 0.0,
+                    "NormalizedTimeStart": 0.0,
+                    "NormalizedTransitionDuration": 0.05,
+                    "TaskEnabled": true,
+                    "IsClientOnly": true
+                  }
+                ],
+                "WaitMessages": [],
+                "CompleteAfterMessage": false,
+                "DisableLookAt": false,
+                "EnableTalk": false,
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              }
+            }
+          ]
+        }
+      ],
+      "CommonPointList": [],
+      "Name": "SmartObject1",
+      "RotY": 1.042115,
+      "ID": 1,
+      "PosX": 146.13,
+      "PosY": 79.89844,
+      "PosZ": 156.16,
+      "IsDelete": false
+    }
+  ],
+  "CurveList": null,
+  "LittleGameList": null
+}

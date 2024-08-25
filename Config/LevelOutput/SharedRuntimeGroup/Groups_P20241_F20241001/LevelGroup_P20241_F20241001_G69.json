@@ -1,0 +1,335 @@
+{
+  "GroupName": "Door",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": "Config/Level/GroupGraph/F20241001/Group_F20241001_G69.json",
+  "AreaAnchorName": "LevelArea_P20241_F20241001_G69",
+  "SaveType": "Permanent",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": {
+    "Conditions": [
+      {
+        "SavedValueName": "DoorControl",
+        "Operation": "Equal",
+        "Value": 0
+      }
+    ],
+    "Operation": "And"
+  },
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Server",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": [
+    {
+      "Comment": "还没被夹 to 被门夹过",
+      "SrcState": 0,
+      "DstState": 1
+    },
+    {
+      "Comment": "被门夹过  to 还没被夹",
+      "SrcState": 1,
+      "DstState": 0
+    }
+  ],
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": [
+      {
+        "Value": "LevelArea_P20241_F20241001_G69,Anchor1",
+        "Key": "camera"
+      }
+    ],
+    "SharedValues": [
+      {
+        "Value": "LevelArea_P20241_F20241001_G69,Anchor1",
+        "Key": "camera"
+      }
+    ]
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "UltraFar",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Anchor1",
+      "RotY": 90.0,
+      "ID": 1,
+      "PosX": -146.41,
+      "PosY": 208.96,
+      "PosZ": 5.53,
+      "IsDelete": false
+    },
+    {
+      "RotX": 349.5718,
+      "RotZ": 0.0,
+      "Usage": "Camera",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": {
+        "fov": 0.0
+      },
+      "Name": "Anchor2",
+      "RotY": 90.0,
+      "ID": 2,
+      "PosX": -146.38,
+      "PosY": 204.34,
+      "PosZ": 6.33,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "PropID": 102235,
+      "LoadOnInitial": true,
+      "IsOverrideInitLevelGraph": true,
+      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_Door_09.json",
+      "ValueSource": {
+        "Values": [
+          {
+            "Value": 1,
+            "Key": "IsAutoDoor"
+          },
+          {
+            "Value": 0,
+            "Key": "CanInteractInLock"
+          },
+          {
+            "Value": "LevelArea_P20241_F20241001_G2,PlayerStart",
+            "Key": "GateKillRespawnPoint"
+          }
+        ],
+        "SharedValues": [
+          {
+            "Value": 1,
+            "Key": "IsAutoDoor"
+          },
+          {
+            "Value": 0,
+            "Key": "CanInteractInLock"
+          },
+          {
+            "Value": "LevelArea_P20241_F20241001_G2,PlayerStart",
+            "Key": "GateKillRespawnPoint"
+          }
+        ]
+      },
+      "Trigger": null,
+      "CampID": 4,
+      "State": "Closed",
+      "EventID": 0,
+      "OverrideHintRange": -1.0,
+      "OverrideSoundRange": -1.0,
+      "CustomTriggerMap": {},
+      "CustomTriggerMapV2": {
+        "CloseToTrigger": {
+          "Shape": "Box",
+          "Radius": 10.0,
+          "DimX": 19.0,
+          "DimY": 9.0,
+          "DimZ": 20.0,
+          "Offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "PointList": [],
+          "Server": false
+        },
+        "ExitTrigger": {
+          "Shape": "Box",
+          "Radius": 15.0,
+          "DimX": 20.0,
+          "DimY": 10.0,
+          "DimZ": 25.0,
+          "Offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 0.0,
+            "sqrMagnitude": 0.0
+          },
+          "PointList": [],
+          "Server": false
+        }
+      },
+      "BridgeStateRotations": [],
+      "StateConfigs": [],
+      "AnchorGroupID": 0,
+      "AnchorID": 0,
+      "ChestID": 0,
+      "MappingInfoID": 0,
+      "SubMapID": 0,
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "FirstDialogueGroupID": 0,
+      "TalkDialogGroupIDList": [],
+      "TalkChosenType": "undefined",
+      "ServerInteractVerificationIDList": [],
+      "HideInCutScene": false,
+      "HideInStory": false,
+      "PerformanceHideFlags": 0,
+      "DisableDither": false,
+      "StageObjectCapture": null,
+      "RaidID": 0,
+      "FarmElementID": 0,
+      "CocoonID": 0,
+      "ActivityMapConditionIDList": null,
+      "OverrideMapIconType": -1,
+      "OverrideMapStateIcons": [
+        {
+          "State": "Locked",
+          "IconID": 255,
+          "Color": "#4b4b4b",
+          "AnchorKey": null
+        },
+        {
+          "State": "Closed",
+          "IconID": 255,
+          "Color": "#b74a4a",
+          "AnchorKey": null
+        },
+        {
+          "State": "Open",
+          "IconID": 255,
+          "Color": "#4b4b4b",
+          "AnchorKey": null
+        }
+      ],
+      "OverridePropName": {
+        "hash": 371857150
+      },
+      "Dialog": null,
+      "InteractIconType": "ChatMissionIcon",
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "InteractTitle": {
+        "hash": 371857150
+      },
+      "CustomParameter": null,
+      "MapCustomParameter": null,
+      "NearestTeleportMappingInfoID": 0,
+      "OverrideBoardShowList": null,
+      "IsClientOnly": false,
+      "OverrideTriggerValidGuestConfig": false,
+      "TriggerValidGuest": null,
+      "TagOverrideConfig": null,
+      "TagOverrideComponents": null,
+      "CameraCollisionPoint": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "magnitude": 0.0,
+        "sqrMagnitude": 0.0
+      },
+      "CameraCenterEntityList": [],
+      "CameraConfig": null,
+      "IsOverrideAudioSwitch": false,
+      "AudioSwitchGroupName": null,
+      "AudioSwitchName": null,
+      "OverrideReplaceMaterialKey": null,
+      "SoundProfileOverrideID": 0,
+      "LookAtPlayer": false,
+      "LookAtPlayerTriggerRadius": 2.0,
+      "IsOverrideLockRaycastOffset": false,
+      "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {
+        "OverrideSpawn": false,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "Name": "Prop1",
+      "RotY": 90.0,
+      "ID": 300001,
+      "PosX": -110.65,
+      "PosY": 199.1,
+      "PosZ": 5.81,
+      "IsDelete": false
+    }
+  ],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

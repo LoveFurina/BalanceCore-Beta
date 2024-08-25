@@ -1,0 +1,120 @@
+{
+  "GroupName": "DefaultGroup",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P30500_F30500001_G21",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": {
+    "Conditions": [],
+    "Operation": "And"
+  },
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "PlayerStart",
+      "RotY": 269.9998,
+      "ID": 1,
+      "PosX": -19.62,
+      "PosY": 56.83418,
+      "PosZ": 6.195,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_BAT_P103_BattleArea1_night_01.enviroProfile.asset",
+      "Tags": [
+        "BattleArea1"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": null,
+      "AudioState": null,
+      "AudioRTPC": null,
+      "PropsGroupID": 0,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea1",
+      "RotY": 1E-05,
+      "ID": 1,
+      "PosX": 43.0,
+      "PosY": 0.0,
+      "PosZ": -2.530003,
+      "IsDelete": false
+    },
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_BAT_P201_Boss_night.enviroProfile.asset",
+      "Tags": [
+        "BattleArea02"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [
+        "Ev_WwiseMatrixReverb_VO_24_pnkn_jiudiandatang"
+      ],
+      "AudioState": null,
+      "AudioRTPC": null,
+      "PropsGroupID": 29,
+      "AudienceGroupIDList": null,
+      "PrefetchMainMissionList": [],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea2",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": null,
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

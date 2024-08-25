@@ -1,0 +1,2203 @@
+{
+  "1001": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1001.png",
+    "ID": 1001,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782545
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249202
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1002": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1002.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1002.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1002.png",
+    "ID": 1002,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782548
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249203
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1003": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1003.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1003.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1003.png",
+    "ID": 1003,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782547
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249204
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1004": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1004.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1004.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1004.png",
+    "ID": 1004,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782542
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249197
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1005": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1005.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1005.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1005.png",
+    "ID": 1005,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782541
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249198
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1006": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1006.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1006.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1006.png",
+    "ID": 1006,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782544
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249199
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1008": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1008.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1008.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1008.png",
+    "ID": 1008,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782554
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249193
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1009": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1009.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1009.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1009.png",
+    "ID": 1009,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782553
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249194
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1013": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1013.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1013.png",
+    "ID": 1013,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301394
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834737
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1101": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1101.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1101.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1101.png",
+    "ID": 1101,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782450
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249169
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1102": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1102.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1102.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1102.png",
+    "ID": 1102,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782451
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249172
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1103": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1103.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1103.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1103.png",
+    "ID": 1103,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782452
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249171
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1104": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1104.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1104.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1104.png",
+    "ID": 1104,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782445
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249166
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1105": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1105.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1105.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1105.png",
+    "ID": 1105,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782446
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249165
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1106": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1106.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1106.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1106.png",
+    "ID": 1106,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782447
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249168
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1107": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1107.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1107.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1107.png",
+    "ID": 1107,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782448
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249167
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1108": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1108.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1108.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1108.png",
+    "ID": 1108,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782457
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249162
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1109": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1109.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1109.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1109.png",
+    "ID": 1109,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782458
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249161
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1110": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1110.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1110.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1110.png",
+    "ID": 1110,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301492
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834771
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1111": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1111.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1111.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1111.png",
+    "ID": 1111,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301491
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834772
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1201": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1201.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1201.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1201.png",
+    "ID": 1201,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782611
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249268
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1202": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1202.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1202.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1202.png",
+    "ID": 1202,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782610
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249265
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1203": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1203.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1203.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1203.png",
+    "ID": 1203,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782609
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249266
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1204": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1204.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1204.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1204.png",
+    "ID": 1204,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782608
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249263
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1205": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1205.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1205.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1205.png",
+    "ID": 1205,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782607
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249264
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1206": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1206.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1206.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1206.png",
+    "ID": 1206,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782606
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249261
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1207": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1207.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1207.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1207.png",
+    "ID": 1207,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782605
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249262
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1208": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1208.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1208.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1208.png",
+    "ID": 1208,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782620
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249259
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1209": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1209.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1209.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1209.png",
+    "ID": 1209,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782619
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249260
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1210": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1210.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1210.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1210.png",
+    "ID": 1210,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301329
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834674
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1211": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1211.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1211.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1211.png",
+    "ID": 1211,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301330
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834673
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1212": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1212.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1212.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1212.png",
+    "ID": 1212,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301331
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834676
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1213": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1213.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1213.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1213.png",
+    "ID": 1213,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301332
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834675
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1214": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1214.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1214.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1214.png",
+    "ID": 1214,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301333
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834678
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1215": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1215.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1215.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1215.png",
+    "ID": 1215,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301334
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834677
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8001": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8001.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
+    "ID": 8001,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444452
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262293
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8002": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8002.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
+    "ID": 8002,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444455
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262294
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8003": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8003.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8003.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8003.png",
+    "ID": 8003,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444454
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262295
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8004": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8004.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8004.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8004.png",
+    "ID": 8004,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444449
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262288
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1302": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1302.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1302.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1302.png",
+    "ID": 1302,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782513
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249234
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "7005": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1005.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1005.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1005.png",
+    "ID": 7005,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782541
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249198
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "7006": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1006.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1006.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1006.png",
+    "ID": 7006,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782544
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249199
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "7213": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1213.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1213.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1213.png",
+    "ID": 7213,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301332
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834675
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "7205": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1205.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1205.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1205.png",
+    "ID": 7205,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782607
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249264
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "7212": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1212.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1212.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1212.png",
+    "ID": 7212,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301331
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834676
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1303": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1303.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1303.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1303.png",
+    "ID": 1303,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782514
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249233
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1112": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1112.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1112.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1112.png",
+    "ID": 1112,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301490
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834769
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1217": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1217.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1217.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1217.png",
+    "ID": 1217,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301336
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834679
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1304": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1304.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1304.png",
+    "ID": 1304,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782511
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249232
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1312": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1312.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1312.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1312.png",
+    "ID": 1312,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -965301428
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834707
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1310": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1310.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1310.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1310.png",
+    "ID": 1310,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301426
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834705
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1301": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1301.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1301.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1301.png",
+    "ID": 1301,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": 600782516
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249235
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1307": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1307.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1307.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1307.png",
+    "ID": 1307,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782510
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249229
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1308": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1308.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1308.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1308.png",
+    "ID": 1308,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782523
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249228
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1305": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1305.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1305.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1305.png",
+    "ID": 1305,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782512
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249231
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1315": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1315.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1315.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1315.png",
+    "ID": 1315,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301429
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834710
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8005": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8005.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8005.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8005.png",
+    "ID": 8005,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444448
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262289
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1309": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1309.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1309.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1309.png",
+    "ID": 1309,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782524
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249227
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8006": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8006.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8006.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8006.png",
+    "ID": 8006,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444451
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262290
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1314": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1314.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1314.png",
+    "ID": 1314,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301430
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834709
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1306": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1306.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1306.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1306.png",
+    "ID": 1306,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 600782509
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -1153249230
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1218": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1218.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1218.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1218.png",
+    "ID": 1218,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -965301321
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 412834682
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1224": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1224.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
+    "ID": 1224,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -562016806
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918619
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1221": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1221.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1221.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1221.png",
+    "ID": 1221,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -562016803
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918614
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1220": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1220.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1220.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1220.png",
+    "ID": 1220,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -562016802
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918615
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1223": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1223.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1223.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1223.png",
+    "ID": 1223,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -562016805
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918616
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "1222": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1222.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1222.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1222.png",
+    "ID": 1222,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": -562016804
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918617
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8901": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8001.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8001.png",
+    "ID": 8901,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444452
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262293
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "8902": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/8002.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/8002.png",
+    "ID": 8902,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "SuperRare",
+    "ItemName": {
+      "Hash": 775444455
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": -696262294
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "6022": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/1224.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/1224.png",
+    "ID": 6022,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -562016806
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918619
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  },
+  "6023": {
+    "ReturnItemIDList": [],
+    "ItemCurrencyIconPath": "",
+    "ItemFigureIconPath": "SpriteOutput/AvatarIcon/Avatar/999.png",
+    "CustomDataList": [],
+    "ItemAvatarIconPath": "SpriteOutput/AvatarShopIcon/Avatar/999.png",
+    "ItemIconPath": "SpriteOutput/AvatarIcon/Avatar/999.png",
+    "ID": 6023,
+    "ItemGroup": 0,
+    "SellType": "UnSellable",
+    "UseDataID": 0,
+    "ItemMainType": "AvatarCard",
+    "Rarity": "VeryRare",
+    "ItemName": {
+      "Hash": -562016806
+    },
+    "PurposeType": 0,
+    "ItemBGDesc": {
+      "Hash": 1978918619
+    },
+    "ItemDesc": {
+      "Hash": 371857150
+    },
+    "PileLimit": 1,
+    "ItemSubType": "AvatarCard",
+    "InventoryDisplayTag": 1,
+    "UseMethod": "Unknown",
+    "IsShowRedDot": false,
+    "IsSellable": false,
+    "isVisible": false
+  }
+}

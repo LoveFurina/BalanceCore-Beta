@@ -1,0 +1,2422 @@
+{
+  "1010": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1011": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1011,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": true
+  },
+  "1020": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Locked",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1030": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState1",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1040": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState2",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1050": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState3",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1060": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState4",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1090": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerDisable",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "1100": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1100,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "1120": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1120,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Locked",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "1190": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1190,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerDisable",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "1200": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1200,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "1210": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1210,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "1230": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1230,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState1",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "1300": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1300,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "BridgeState1",
+    "IsEvent": false
+  },
+  "1340": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1340,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState2",
+    "SrcState": "BridgeState1",
+    "IsEvent": false
+  },
+  "1350": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1350,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState3",
+    "SrcState": "BridgeState1",
+    "IsEvent": false
+  },
+  "1360": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1360,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState4",
+    "SrcState": "BridgeState1",
+    "IsEvent": false
+  },
+  "1400": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1400,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "BridgeState2",
+    "IsEvent": false
+  },
+  "1430": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1430,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState1",
+    "SrcState": "BridgeState2",
+    "IsEvent": false
+  },
+  "1450": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1450,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState3",
+    "SrcState": "BridgeState2",
+    "IsEvent": false
+  },
+  "1500": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1500,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "BridgeState3",
+    "IsEvent": false
+  },
+  "1530": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1530,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState1",
+    "SrcState": "BridgeState3",
+    "IsEvent": false
+  },
+  "1540": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1540,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState2",
+    "SrcState": "BridgeState3",
+    "IsEvent": false
+  },
+  "1560": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1560,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState4",
+    "SrcState": "BridgeState3",
+    "IsEvent": false
+  },
+  "1600": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1600,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "BridgeState4",
+    "IsEvent": false
+  },
+  "1610": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1610,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "BridgeState4",
+    "IsEvent": false
+  },
+  "1630": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1630,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState1",
+    "SrcState": "BridgeState4",
+    "IsEvent": false
+  },
+  "1650": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1650,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "BridgeState3",
+    "SrcState": "BridgeState4",
+    "IsEvent": false
+  },
+  "1920": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1920,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Locked",
+    "SrcState": "TriggerDisable",
+    "IsEvent": false
+  },
+  "3011": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140037
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3011,
+    "InteractDesc": {
+      "Hash": -1897267717
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3012": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140037
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3012,
+    "InteractDesc": {
+      "Hash": -1897267714
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3013": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140037
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3013,
+    "InteractDesc": {
+      "Hash": -1897267715
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3014": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140026
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3014,
+    "InteractDesc": {
+      "Hash": -1897267712
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3015": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140036
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3015,
+    "InteractDesc": {
+      "Hash": -1897267713
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3016": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140037
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3016,
+    "InteractDesc": {
+      "Hash": -1897267710
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3017": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140046
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3017,
+    "InteractDesc": {
+      "Hash": -1897267711
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3018": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140027
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3018,
+    "InteractDesc": {
+      "Hash": 15944861
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3200": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 140037
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3200,
+    "InteractDesc": {
+      "Hash": 831615705
+    },
+    "TargetState": "Closed",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "3801": {
+    "ItemCostList": [
+      {
+        "ItemNum": 2,
+        "ItemID": 32
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3801,
+    "InteractDesc": {
+      "Hash": 831615902
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3019": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149959
+      }
+    ],
+    "InteractCostType": "CostItem",
+    "InteractID": 3019,
+    "InteractDesc": {
+      "Hash": -1897267709
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3020": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 250401
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3020,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3021": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 250402
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3021,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "3022": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 250403
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3022,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "3023": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 250404
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 3023,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Elevator2",
+    "SrcState": "Elevator1",
+    "IsEvent": false
+  },
+  "10100": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 10100,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerEnable",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "11000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "TriggerEnable",
+    "IsEvent": false
+  },
+  "11010": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11010,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "TriggerEnable",
+    "IsEvent": false
+  },
+  "11090": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11090,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerDisable",
+    "SrcState": "TriggerEnable",
+    "IsEvent": false
+  },
+  "11100": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11100,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerEnable",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "11700": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11700,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "WaitActive",
+    "IsEvent": false
+  },
+  "10117": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 10117,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "WaitActive",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "12140": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12140,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Elevator1",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "19100": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 19100,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerEnable",
+    "SrcState": "TriggerDisable",
+    "IsEvent": false
+  },
+  "111120": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 111120,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "ChestClosed",
+    "SrcState": "ChestLocked",
+    "IsEvent": false
+  },
+  "112110": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 112110,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "ChestLocked",
+    "SrcState": "ChestClosed",
+    "IsEvent": false
+  },
+  "112131": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 112131,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "ChestUsed",
+    "SrcState": "ChestClosed",
+    "IsEvent": true
+  },
+  "114150": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 114150,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Elevator2",
+    "SrcState": "Elevator1",
+    "IsEvent": false
+  },
+  "115140": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 115140,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Elevator1",
+    "SrcState": "Elevator2",
+    "IsEvent": false
+  },
+  "118191": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 118191,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "EventOpen",
+    "SrcState": "EventClose",
+    "IsEvent": true
+  },
+  "10191": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 10191,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "EventOpen",
+    "SrcState": "Closed",
+    "IsEvent": true
+  },
+  "12180": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12180,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "EventClose",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "10180": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 10180,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "EventClose",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "11800": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 11800,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "EventClose",
+    "IsEvent": false
+  },
+  "120120": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 120120,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "ChestClosed",
+    "SrcState": "Hidden",
+    "IsEvent": false
+  },
+  "112200": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 112200,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Hidden",
+    "SrcState": "ChestClosed",
+    "IsEvent": false
+  },
+  "120100": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 120100,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TriggerEnable",
+    "SrcState": "Hidden",
+    "IsEvent": false
+  },
+  "121220": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 121220,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate1",
+    "SrcState": "TeleportGate0",
+    "IsEvent": false
+  },
+  "121230": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 121230,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate2",
+    "SrcState": "TeleportGate0",
+    "IsEvent": false
+  },
+  "121240": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 121240,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate3",
+    "SrcState": "TeleportGate0",
+    "IsEvent": false
+  },
+  "122210": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 122210,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate0",
+    "SrcState": "TeleportGate1",
+    "IsEvent": false
+  },
+  "122230": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 122230,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate2",
+    "SrcState": "TeleportGate1",
+    "IsEvent": false
+  },
+  "122240": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 122240,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate3",
+    "SrcState": "TeleportGate1",
+    "IsEvent": false
+  },
+  "123210": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 123210,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate0",
+    "SrcState": "TeleportGate2",
+    "IsEvent": false
+  },
+  "123220": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 123220,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate1",
+    "SrcState": "TeleportGate2",
+    "IsEvent": false
+  },
+  "123240": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 123240,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate3",
+    "SrcState": "TeleportGate2",
+    "IsEvent": false
+  },
+  "124210": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 124210,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate0",
+    "SrcState": "TeleportGate3",
+    "IsEvent": false
+  },
+  "124220": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 124220,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate1",
+    "SrcState": "TeleportGate3",
+    "IsEvent": false
+  },
+  "124230": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 124230,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "TeleportGate2",
+    "SrcState": "TeleportGate3",
+    "IsEvent": false
+  },
+  "125001": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149960
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125001,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125002": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149961
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125002,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125003": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149962
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125003,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125006": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149964
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125006,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125007": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149965
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125007,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125008": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149966
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125008,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "125009": {
+    "ItemCostList": [
+      {
+        "ItemNum": 1,
+        "ItemID": 149967
+      }
+    ],
+    "InteractCostType": "CheckItem",
+    "InteractID": 125009,
+    "InteractDesc": {
+      "Hash": 1458444403
+    },
+    "TargetState": "Open",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100020": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100020,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100022": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100022,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100023": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100023,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100024": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100024,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100025": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100025,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100026": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100026,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100027": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100027,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "100028": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 100028,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "Closed",
+    "IsEvent": false
+  },
+  "101020": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101020,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "101021": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101021,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "101022": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101022,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "101023": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101023,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "101024": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101024,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "101025": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101025,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "101026": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101026,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "101027": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101027,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "101000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "102000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 102000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "103000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 103000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "104000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 104000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "105000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 105000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "106000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 106000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "107000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 107000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "108000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 108000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "12101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "12108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 12108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "Locked",
+    "IsEvent": false
+  },
+  "101101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "101108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 101108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "Open",
+    "IsEvent": false
+  },
+  "1020101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1030102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1040103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1030101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1040101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090101": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090101,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState01",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1010108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1020108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1030108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1040108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070108": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070108,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState08",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "2002": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 2002,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Locked",
+    "SrcState": "Hidden",
+    "IsEvent": false
+  },
+  "2000": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 2000,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Closed",
+    "SrcState": "Hidden",
+    "IsEvent": false
+  },
+  "2001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 2001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "Hidden",
+    "IsEvent": false
+  },
+  "1010103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1010102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1020103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1020104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1020105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1020106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1020107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1020109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1030104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1030105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1030106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1030107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1030109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1040105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1040106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1040107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1040109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1050107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1050109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1060109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080109": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080109,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState09",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1040102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090102": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090102,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState02",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1050103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090103": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090103,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState03",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1060104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090104": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090104,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState04",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1070105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090105": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090105,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState05",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1080106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090106": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090106,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState06",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1090107": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090107,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "CustomState07",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  },
+  "1010001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1010001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState01",
+    "IsEvent": false
+  },
+  "1020001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1020001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState02",
+    "IsEvent": false
+  },
+  "1030001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1030001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState03",
+    "IsEvent": false
+  },
+  "1040001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1040001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState04",
+    "IsEvent": false
+  },
+  "1050001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1050001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState05",
+    "IsEvent": false
+  },
+  "1060001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1060001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState06",
+    "IsEvent": false
+  },
+  "1070001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1070001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState07",
+    "IsEvent": false
+  },
+  "1080001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1080001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState08",
+    "IsEvent": false
+  },
+  "1090001": {
+    "ItemCostList": [],
+    "InteractCostType": "None",
+    "InteractID": 1090001,
+    "InteractDesc": {
+      "Hash": 371857150
+    },
+    "TargetState": "Open",
+    "SrcState": "CustomState09",
+    "IsEvent": false
+  }
+}

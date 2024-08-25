@@ -1,0 +1,440 @@
+{
+  "GroupName": "Crowd",
+  "Category": "Atmosphere",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P20242_F20242001_G232",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": {
+    "Conditions": [
+      {
+        "MainMissionID": 4340128
+      }
+    ],
+    "Operation": "And"
+  },
+  "UseCustomSaveData": false,
+  "IsPendedLoad": true,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Container",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [
+    {
+      "MemberList": [
+        {
+          "Identity": "XianZhou_Sky-Faring",
+          "FeatureID": "XianZhou_Sky-Faring_XianZhouMale",
+          "AssemNPCID": null,
+          "DefaultState": null,
+          "UniqueName": "232_1_01",
+          "LookAtMode": "LookCrowd",
+          "LookAtTarget": "232_1_03",
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 1.195999,
+            "y": 0.0,
+            "z": -0.966,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.7779409,
+              "y": 0.0,
+              "z": -0.6283374,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": 0.777941,
+                "y": 0.0,
+                "z": -0.628337443,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.53739059,
+            "sqrMagnitude": 2.36356974
+          },
+          "LocalRotationY": 29.62922,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010303,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "XianZhou_Divination",
+          "FeatureID": "XianZhou_Divination_VidyadharaLady",
+          "AssemNPCID": null,
+          "DefaultState": null,
+          "UniqueName": "232_1_02",
+          "LookAtMode": "Closed",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": -1.284973,
+            "y": 0.0,
+            "z": -0.769148,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": -0.85803324,
+              "y": 0.0,
+              "z": -0.5135941,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": -0.8580333,
+                "y": 0.0,
+                "z": -0.513594151,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 1.49757957,
+            "sqrMagnitude": 2.24274445
+          },
+          "LocalRotationY": 173.44,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100020320,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "XianZhou_ZhuMing",
+          "FeatureID": "XianZhou_ZhuMing_VidyadharaLady",
+          "AssemNPCID": null,
+          "DefaultState": null,
+          "UniqueName": "232_1_03",
+          "LookAtMode": "LookCrowd",
+          "LookAtTarget": "232_1_01",
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 2.050556,
+            "y": 0.0,
+            "z": -0.316031,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.988331139,
+              "y": 0.0,
+              "z": -0.152321264,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": 0.988331,
+                "y": 0.0,
+                "z": -0.152321249,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "normalized": {
+                  "x": 0.9883311,
+                  "y": 0.0,
+                  "z": -0.152321264,
+                  "IsNaN": false,
+                  "IsInfinity": false,
+                  "IsPositiveInfinity": false,
+                  "IsNegativeInfinity": false,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.99999994,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 1.00000012,
+              "sqrMagnitude": 1.00000024
+            },
+            "magnitude": 2.07476616,
+            "sqrMagnitude": 4.304655
+          },
+          "LocalRotationY": 174.9428,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100020222,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "XianZhou_YaoQing",
+          "FeatureID": "XianZhou_YaoQing_FoxianMale",
+          "AssemNPCID": null,
+          "DefaultState": null,
+          "UniqueName": "232_1_04",
+          "LookAtMode": "Closed",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 1.959,
+            "y": 0.0,
+            "z": 0.44,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.975692332,
+              "y": 0.0,
+              "z": 0.219144776,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": 0.9756924,
+                "y": 0.0,
+                "z": 0.219144791,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 2.007805,
+            "sqrMagnitude": 4.031281
+          },
+          "LocalRotationY": 184.8629,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010237,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "XianZhou_Divination",
+          "FeatureID": "XianZhou_Divination_XianZhouMale",
+          "AssemNPCID": null,
+          "DefaultState": null,
+          "UniqueName": "232_1_05",
+          "LookAtMode": "LookCrowd",
+          "LookAtTarget": "232_1_02",
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 1.395931,
+            "y": 0.0,
+            "z": 1.077072,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.7917244,
+              "y": 0.0,
+              "z": 0.610878468,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.76315272,
+            "sqrMagnitude": 3.10870743
+          },
+          "LocalRotationY": 200.7395,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010000,
+          "DefaultFreeStyleGraph": null
+        }
+      ],
+      "CrowdLevelGraph": null,
+      "NewMunicipalChatConfigPath": null,
+      "NewMunicipalChatCrowdInfos": [],
+      "InteractPerformanceID": 0,
+      "TriggerRudius": 0.0,
+      "InteractPerformanceTriggerRadius": 0.0,
+      "CenterPos": {
+        "x": 1.063303,
+        "y": 0.0,
+        "z": -0.106821,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.9949917,
+          "y": 0.0,
+          "z": -0.0999583453,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": 0.9949916,
+            "y": 0.0,
+            "z": -0.09995833,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.99499166,
+              "y": 0.0,
+              "z": -0.09995834,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 0.99999994,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 1.00000012,
+          "sqrMagnitude": 1.00000024
+        },
+        "magnitude": 1.06865513,
+        "sqrMagnitude": 1.14202392
+      },
+      "Name": "Crowd1",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 53.29298,
+      "PosY": -39.35699,
+      "PosZ": 0.489001,
+      "IsDelete": false
+    }
+  ],
+  "PedestrianList": [],
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

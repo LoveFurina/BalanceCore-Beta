@@ -1,0 +1,145 @@
+{
+  "FloorID": 20243001,
+  "StartGroupIndex": 0,
+  "StartAnchorID": 1,
+  "StageData": "Stages/Outputs/Chapter02/Stages/Chap02_MAZ_X403_MainLine_01_StageData/Chap02_MAZ_X403_MainLine_01_StageData.stage",
+  "CameraType": "Maze",
+  "LayerToAreaMask": [
+    1
+  ],
+  "LevelFeatureModules": null,
+  "NavmapConfigPath": null,
+  "RegionConfigPath": null,
+  "CustomValues": null,
+  "SavedValues": null,
+  "GroupInstanceList": [
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20243_F20243001/LevelGroup_P20243_F20243001_G1.json",
+      "Name": "DefaultGroup",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20243_F20243001/LevelGroup_P20243_F20243001_G2.json",
+      "Name": "Sound",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20243_F20243001/LevelGroup_P20243_F20243001_G3.json",
+      "Name": "3DText",
+      "RotY": 0.0,
+      "ID": 3,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "DimensionList": [
+    {
+      "ID": 0,
+      "Category": "Main",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_MAZ_X403_MainLine_01_Day.enviroProfile.asset",
+      "CameraType": "Maze",
+      "BattleAreaList": [
+        {
+          "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X403_MainLine_01_Day.enviroProfile.asset",
+          "Tags": [
+            "BattleArea01"
+          ],
+          "TagContainer": [],
+          "AnchorPrefabPath": null,
+          "AudioEnterEvent": [
+            "Ev_WwiseMatrixReverb_VO_09_mingtukongjian",
+            "Ev_sfx_amb_battle_FeiXiaoBoss",
+            "Ev_SFX_Amb_MindBeast_Battle"
+          ],
+          "AudioState": null,
+          "AudioRTPC": null,
+          "PropsGroupID": 3,
+          "AudienceGroupIDList": [],
+          "PrefetchMainMissionList": [],
+          "PrefetchSubMissionList": [],
+          "OverrideBGMLow": null,
+          "OverrideBGMHigh": null,
+          "Name": "BattleArea1",
+          "RotY": 0.0,
+          "ID": 1,
+          "PosX": 0.0,
+          "PosY": 0.0,
+          "PosZ": 0.0,
+          "IsDelete": false
+        }
+      ],
+      "CameraPrefabPath": null,
+      "ConstValues": null,
+      "SavedValues": null,
+      "SavedValueConfigDict": null,
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": false,
+      "GroupIndexList": [
+        0,
+        1,
+        2
+      ],
+      "ExclusiveSavedGroupIDList": [],
+      "StartGroupIndex": 0,
+      "StartAnchorID": 1
+    }
+  ],
+  "GroupInstanceCommonMap": {
+    "1": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "2": {
+      "IsDelete": false,
+      "Category": "Normal",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": null
+    },
+    "3": {
+      "IsDelete": false,
+      "Category": "BattleProps",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadSide": "Client",
+      "LoadOnInitial": true,
+      "GroupRefreshID": 0,
+      "UnloadCondition": null,
+      "ForceUnloadCondition": null,
+      "SystemUnlockCondition": {
+        "Conditions": [],
+        "Operation": "And"
+      }
+    }
+  },
+  "IsRestartLevelGraph": true,
+  "EnableGroupStreaming": true,
+  "EnableGroupSpaceConflict": true,
+  "EnableGroupRegionStreaming": true,
+  "TempGroupUnloadByY": 1E+07
+}

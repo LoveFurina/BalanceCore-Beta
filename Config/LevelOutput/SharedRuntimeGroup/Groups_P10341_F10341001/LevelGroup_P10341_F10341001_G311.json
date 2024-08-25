@@ -1,0 +1,533 @@
+{
+  "GroupName": "RGcrowd",
+  "Category": "Atmosphere",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P10341_F10341001_G311",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": {
+    "Conditions": [
+      {
+        "SavedValueName": "RogueTourn_ExpLevel",
+        "Operation": "NotEqual",
+        "Value": 0
+      },
+      {
+        "SubMissionID": 802340101
+      }
+    ],
+    "Operation": "And"
+  },
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": true,
+  "HoYoGroupType": "Container",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": [],
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [],
+  "NPCList": [],
+  "CrowdList": [
+    {
+      "MemberList": [
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotMale",
+          "AssemNPCID": "W3_Tourist_High_RobotMale_Male_01",
+          "DefaultState": null,
+          "UniqueName": "259_1_01",
+          "LookAtMode": "LookCrowd",
+          "LookAtTarget": "259_1_02",
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": -0.54,
+            "y": 0.0,
+            "z": -2.087997,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": -0.250383168,
+              "y": 0.0,
+              "z": -0.968146741,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": -0.2503832,
+                "y": 0.0,
+                "z": -0.9681468,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 2.15669465,
+            "sqrMagnitude": 4.65133142
+          },
+          "LocalRotationY": 307.5393,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010295,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotLady",
+          "AssemNPCID": "W3_Tourist_High_RobotLady_Lady_01",
+          "DefaultState": null,
+          "UniqueName": "259_1_02",
+          "LookAtMode": "LookAnchor",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": "LevelArea_P10341_F10341001_G259",
+            "AnchorName": "Anchor1"
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 0.053,
+            "y": 0.0,
+            "z": -0.879997,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.0601185374,
+              "y": 0.0,
+              "z": -0.998191237,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 0.8815916,
+            "sqrMagnitude": 0.777203739
+          },
+          "LocalRotationY": 279.6011,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100020000,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotLady",
+          "AssemNPCID": "W3_Tourist_High_RobotLady_Lady_05",
+          "DefaultState": null,
+          "UniqueName": "259_1_03",
+          "LookAtMode": "Closed",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": null,
+            "AnchorName": null
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 0.112,
+            "y": 0.0,
+            "z": 2.245003,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.0498266071,
+              "y": 0.0,
+              "z": 0.998757839,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": 0.04982661,
+                "y": 0.0,
+                "z": 0.9987579,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 2.247795,
+            "sqrMagnitude": 5.05258274
+          },
+          "LocalRotationY": 237.8872,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100020222,
+          "DefaultFreeStyleGraph": null
+        }
+      ],
+      "CrowdLevelGraph": null,
+      "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10341001/MunicipalChatConfig_F10341001_0400.json",
+      "NewMunicipalChatCrowdInfos": [
+        {
+          "UniqueName": "1",
+          "CrowdUniqueName": "259_1_02"
+        },
+        {
+          "UniqueName": "2",
+          "CrowdUniqueName": "259_1_01"
+        }
+      ],
+      "InteractPerformanceID": 0,
+      "TriggerRudius": 5.0,
+      "InteractPerformanceTriggerRadius": 0.0,
+      "CenterPos": {
+        "x": -0.125,
+        "y": 0.0,
+        "z": -0.240997,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": -0.4604292,
+          "y": 0.0,
+          "z": -0.8876964,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "normalized": {
+            "x": -0.460429221,
+            "y": 0.0,
+            "z": -0.887696445,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.0
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.9999999
+        },
+        "magnitude": 0.271485835,
+        "sqrMagnitude": 0.0737045556
+      },
+      "Name": "Crowd1",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 5.03,
+      "PosY": -2.056508,
+      "PosZ": 92.41,
+      "IsDelete": false
+    },
+    {
+      "MemberList": [
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotMale",
+          "AssemNPCID": "W3_Tourist_High_RobotMale_Male_02",
+          "DefaultState": null,
+          "UniqueName": "259_2_01",
+          "LookAtMode": "LookAnchor",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": "LevelArea_P10341_F10341001_G259",
+            "AnchorName": "Anchor1"
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": 1.05,
+            "y": 0.0,
+            "z": 1.199997,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": 0.658505559,
+              "y": 0.0,
+              "z": 0.7525759,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.5945195,
+            "sqrMagnitude": 2.54249239
+          },
+          "LocalRotationY": 141.1486,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010210,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotMale",
+          "AssemNPCID": "W3_Tourist_High_RobotMale_Male_03",
+          "DefaultState": null,
+          "UniqueName": "259_2_02",
+          "LookAtMode": "LookAnchor",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": "LevelArea_P10341_F10341001_G259",
+            "AnchorName": "Anchor1"
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": -0.173,
+            "y": 0.0,
+            "z": 0.248001,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": -0.5721283,
+              "y": 0.0,
+              "z": 0.8201641,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": -0.572128356,
+                "y": 0.0,
+                "z": 0.820164144,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 0.302379727,
+            "sqrMagnitude": 0.0914334953
+          },
+          "LocalRotationY": 103.522,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100010399,
+          "DefaultFreeStyleGraph": null
+        },
+        {
+          "Identity": "Tourist_High",
+          "FeatureID": "Tourist_High_RobotLady",
+          "AssemNPCID": "W3_Tourist_High_RobotLady_Lady_03",
+          "DefaultState": null,
+          "UniqueName": "259_2_03",
+          "LookAtMode": "LookAnchor",
+          "LookAtTarget": null,
+          "LookAtAnchor": {
+            "AreaName": "LevelArea_P10341_F10341001_G259",
+            "AnchorName": "Anchor1"
+          },
+          "LookAtPosition": {
+            "Position": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "magnitude": 0.0,
+              "sqrMagnitude": 0.0
+            }
+          },
+          "LocalPosition": {
+            "x": -0.173,
+            "y": 0.0,
+            "z": -2.075996,
+            "IsNaN": false,
+            "IsInfinity": false,
+            "IsPositiveInfinity": false,
+            "IsNegativeInfinity": false,
+            "normalized": {
+              "x": -0.08304564,
+              "y": 0.0,
+              "z": -0.996545732,
+              "IsNaN": false,
+              "IsInfinity": false,
+              "IsPositiveInfinity": false,
+              "IsNegativeInfinity": false,
+              "normalized": {
+                "x": -0.08304565,
+                "y": 0.0,
+                "z": -0.9965458,
+                "IsNaN": false,
+                "IsInfinity": false,
+                "IsPositiveInfinity": false,
+                "IsNegativeInfinity": false,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 2.08319187,
+            "sqrMagnitude": 4.3396883
+          },
+          "LocalRotationY": 84.27855,
+          "PossessionConfig": null,
+          "DefaultAnimationType": "FreeStyle",
+          "DefaultIdleFreeStyleMotionID": 100020336,
+          "DefaultFreeStyleGraph": null
+        }
+      ],
+      "CrowdLevelGraph": null,
+      "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10341001/MunicipalChatConfig_F10341001_0401.json",
+      "NewMunicipalChatCrowdInfos": [
+        {
+          "UniqueName": "1",
+          "CrowdUniqueName": "259_2_03"
+        },
+        {
+          "UniqueName": "2",
+          "CrowdUniqueName": "259_2_01"
+        }
+      ],
+      "InteractPerformanceID": 0,
+      "TriggerRudius": 5.0,
+      "InteractPerformanceTriggerRadius": 0.0,
+      "CenterPos": {
+        "x": 0.234667,
+        "y": 0.0,
+        "z": -0.209333,
+        "IsNaN": false,
+        "IsInfinity": false,
+        "IsPositiveInfinity": false,
+        "IsNegativeInfinity": false,
+        "normalized": {
+          "x": 0.746239543,
+          "y": 0.0,
+          "z": -0.665677547,
+          "IsNaN": false,
+          "IsInfinity": false,
+          "IsPositiveInfinity": false,
+          "IsNegativeInfinity": false,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.314466059,
+        "sqrMagnitude": 0.0988889039
+      },
+      "Name": "Crowd2",
+      "RotY": 0.0,
+      "ID": 2,
+      "PosX": -5.31,
+      "PosY": -2.056507,
+      "PosZ": 95.74,
+      "IsDelete": false
+    }
+  ],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": null,
+  "LittleGameList": null
+}

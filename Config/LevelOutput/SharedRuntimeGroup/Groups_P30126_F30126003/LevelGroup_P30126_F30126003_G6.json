@@ -1,0 +1,107 @@
+{
+  "GroupName": "DefaultGroup",
+  "Category": "Normal",
+  "ConfigPrefabPath": null,
+  "LevelGraph": null,
+  "AreaAnchorName": "LevelArea_P30126_F30126003_G6",
+  "SaveType": "Reset",
+  "LoadCondition": null,
+  "UnloadCondition": null,
+  "ForceUnloadCondition": null,
+  "SavedValueCondition": null,
+  "SystemUnlockCondition": null,
+  "AtmosphereCondition": null,
+  "UseCustomSaveData": false,
+  "IsPendedLoad": false,
+  "IsPendedUnload": false,
+  "LoadSide": "Client",
+  "LoadOnInitial": true,
+  "OwnerMainMissionID": 0,
+  "AirlineInitPrefabPaths": null,
+  "RandomInit": null,
+  "GroupStateList": null,
+  "GroupRefreshID": 0,
+  "ValueSource": {
+    "Values": null,
+    "SharedValues": null
+  },
+  "ConflictIDList": [],
+  "IsHoyoGroup": false,
+  "HoYoGroupType": "Standard",
+  "StreamingTemplateType": "Standard",
+  "ConflictWhiteList": null,
+  "EnableGroupAI": false,
+  "TagContainer": null,
+  "IsSaveNeedMergeBack": false,
+  "AnchorList": [
+    {
+      "RotX": 0.0,
+      "RotZ": 0.0,
+      "Usage": "Unspecified",
+      "LookAtCameraTemplate": null,
+      "CustomParameter": null,
+      "Name": "PlayerStart",
+      "RotY": 63.0,
+      "ID": 1,
+      "PosX": -118.4,
+      "PosY": 11.9,
+      "PosZ": -54.9,
+      "IsDelete": false
+    }
+  ],
+  "MonsterList": [],
+  "PropList": [],
+  "DistrictList": [],
+  "WaypointList": [],
+  "PathwayList": [],
+  "BattleAreaList": [
+    {
+      "EnviroProfile": "Stages/Outputs/Chapter02/EnviroProfile/Chap02_CloseView_BAT_X03_Phase1_Day.enviroProfile.asset",
+      "Tags": [
+        "BattleArea01"
+      ],
+      "TagContainer": null,
+      "AnchorPrefabPath": null,
+      "AudioEnterEvent": [
+        "Ev_amb_maze_xianzhou_x3_3_battle"
+      ],
+      "AudioState": [
+        {
+          "GroupName": "State_Battle_Monster_W2_Huanlong_00",
+          "StateName": "Phase1"
+        }
+      ],
+      "AudioRTPC": [
+        {
+          "RTPCName": "RTPC_Global_Reverb_Type",
+          "RTPCValue": 9.0,
+          "IsRandom": false,
+          "RandomFrequncy": 0.0,
+          "RTPCRangeMin": 0.0,
+          "RTPCRangeMax": 0.0
+        }
+      ],
+      "PropsGroupID": 3,
+      "AudienceGroupIDList": [],
+      "PrefetchMainMissionList": [],
+      "PrefetchSubMissionList": [],
+      "OverrideBGMLow": null,
+      "OverrideBGMHigh": null,
+      "Name": "BattleArea1",
+      "RotY": 0.0,
+      "ID": 1,
+      "PosX": 0.0,
+      "PosY": 0.0,
+      "PosZ": 0.0,
+      "IsDelete": false
+    }
+  ],
+  "NPCList": [],
+  "CrowdList": [],
+  "PedestrianList": [],
+  "PedestrianV2List": null,
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
+}

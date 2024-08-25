@@ -1,0 +1,3102 @@
+{
+  "10000": {
+    "FloorIDList": [
+      10000000,
+      10000002
+    ],
+    "PlaneName": {
+      "Hash": 853983723
+    },
+    "PlaneType": "Train",
+    "WorldID": 100,
+    "SubType": 1,
+    "PlaneID": 10000,
+    "MazePoolType": 1,
+    "StartFloorID": 10000000
+  },
+  "10001": {
+    "FloorIDList": [
+      10001001
+    ],
+    "PlaneName": {
+      "Hash": 853983724
+    },
+    "PlaneType": "Town",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 10001,
+    "MazePoolType": 1,
+    "StartFloorID": 10001001
+  },
+  "20001": {
+    "FloorIDList": [
+      20001001
+    ],
+    "PlaneName": {
+      "Hash": 853989101
+    },
+    "PlaneType": "Maze",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 20001,
+    "MazePoolType": 1,
+    "StartFloorID": 20001001
+  },
+  "20002": {
+    "FloorIDList": [
+      20002001
+    ],
+    "PlaneName": {
+      "Hash": 853989100
+    },
+    "PlaneType": "Maze",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 20002,
+    "MazePoolType": 1,
+    "StartFloorID": 20001001
+  },
+  "20003": {
+    "FloorIDList": [
+      20003001
+    ],
+    "PlaneName": {
+      "Hash": 853989099
+    },
+    "PlaneType": "Maze",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 20003,
+    "MazePoolType": 1,
+    "StartFloorID": 20001001
+  },
+  "20004": {
+    "FloorIDList": [
+      20004001
+    ],
+    "PlaneName": {
+      "Hash": 853989098
+    },
+    "PlaneType": "Maze",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 20004,
+    "MazePoolType": 1,
+    "StartFloorID": 20004001
+  },
+  "80112": {
+    "FloorIDList": [
+      80112001
+    ],
+    "PlaneName": {
+      "Hash": -712088400
+    },
+    "PlaneType": "Town",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80112,
+    "MazePoolType": 1,
+    "StartFloorID": 80112001
+  },
+  "10101": {
+    "FloorIDList": [
+      10101001,
+      10101002,
+      10101003,
+      10101004,
+      10101005,
+      10101006,
+      10101007,
+      10101008,
+      10101009
+    ],
+    "PlaneName": {
+      "Hash": 853983691
+    },
+    "PlaneType": "Town",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 10101,
+    "MazePoolType": 1,
+    "StartFloorID": 10101001
+  },
+  "10102": {
+    "FloorIDList": [
+      10102001,
+      10102002,
+      10102003,
+      10102004
+    ],
+    "PlaneName": {
+      "Hash": 853983694
+    },
+    "PlaneType": "Town",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 10102,
+    "MazePoolType": 1,
+    "StartFloorID": 10102001
+  },
+  "20101": {
+    "FloorIDList": [
+      20101001
+    ],
+    "PlaneName": {
+      "Hash": 853989006
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20101,
+    "MazePoolType": 1,
+    "StartFloorID": 20101001
+  },
+  "20111": {
+    "FloorIDList": [
+      20111001
+    ],
+    "PlaneName": {
+      "Hash": -712094935
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20111,
+    "MazePoolType": 1,
+    "StartFloorID": 20111001
+  },
+  "20121": {
+    "FloorIDList": [
+      20121001
+    ],
+    "PlaneName": {
+      "Hash": 2016788420
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20121,
+    "MazePoolType": 1,
+    "StartFloorID": 20121001
+  },
+  "20122": {
+    "FloorIDList": [
+      20122001
+    ],
+    "PlaneName": {
+      "Hash": 2016788417
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20122,
+    "MazePoolType": 1,
+    "StartFloorID": 20122001
+  },
+  "20123": {
+    "FloorIDList": [
+      20123001
+    ],
+    "PlaneName": {
+      "Hash": 2016788418
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20123,
+    "MazePoolType": 1,
+    "StartFloorID": 20123001
+  },
+  "20131": {
+    "FloorIDList": [
+      20131001
+    ],
+    "PlaneName": {
+      "Hash": 450704479
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20131,
+    "MazePoolType": 1,
+    "StartFloorID": 20131001
+  },
+  "20132": {
+    "FloorIDList": [
+      20132001
+    ],
+    "PlaneName": {
+      "Hash": 450704476
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20132,
+    "MazePoolType": 1,
+    "StartFloorID": 20132001
+  },
+  "20133": {
+    "FloorIDList": [
+      20133001,
+      20133002
+    ],
+    "PlaneName": {
+      "Hash": 450704477
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20133,
+    "MazePoolType": 1,
+    "StartFloorID": 20133001
+  },
+  "20134": {
+    "FloorIDList": [
+      20134001
+    ],
+    "PlaneName": {
+      "Hash": 450704474
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20134,
+    "MazePoolType": 1,
+    "StartFloorID": 20134001
+  },
+  "20135": {
+    "FloorIDList": [
+      20135001
+    ],
+    "PlaneName": {
+      "Hash": 450704475
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20135,
+    "MazePoolType": 1,
+    "StartFloorID": 20135001
+  },
+  "20136": {
+    "FloorIDList": [
+      20136001
+    ],
+    "PlaneName": {
+      "Hash": 450704472
+    },
+    "PlaneType": "Maze",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20136,
+    "MazePoolType": 1,
+    "StartFloorID": 20136001
+  },
+  "20100": {
+    "FloorIDList": [
+      20100001
+    ],
+    "PlaneName": {
+      "Hash": 853989005
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 20100,
+    "MazePoolType": 1,
+    "StartFloorID": 20100001
+  },
+  "10201": {
+    "FloorIDList": [
+      10201001,
+      10201002
+    ],
+    "PlaneName": {
+      "Hash": 853983790
+    },
+    "PlaneType": "Town",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 10201,
+    "MazePoolType": 1,
+    "StartFloorID": 10201001
+  },
+  "10202": {
+    "FloorIDList": [
+      10202001,
+      10202002,
+      10202003,
+      10202004
+    ],
+    "PlaneName": {
+      "Hash": 853983787
+    },
+    "PlaneType": "Town",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 10202,
+    "MazePoolType": 1,
+    "StartFloorID": 10202001
+  },
+  "20211": {
+    "FloorIDList": [
+      20211001
+    ],
+    "PlaneName": {
+      "Hash": -712094906
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20211,
+    "MazePoolType": 1,
+    "StartFloorID": 20211001
+  },
+  "20212": {
+    "FloorIDList": [
+      20212001
+    ],
+    "PlaneName": {
+      "Hash": -712094903
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20212,
+    "MazePoolType": 1,
+    "StartFloorID": 20212001
+  },
+  "20213": {
+    "FloorIDList": [
+      20213001,
+      20213002
+    ],
+    "PlaneName": {
+      "Hash": -712094904
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20213,
+    "MazePoolType": 1,
+    "StartFloorID": 20213001
+  },
+  "20214": {
+    "FloorIDList": [
+      20214001
+    ],
+    "PlaneName": {
+      "Hash": -712094909
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20214,
+    "MazePoolType": 1,
+    "StartFloorID": 20214001
+  },
+  "20221": {
+    "FloorIDList": [
+      20221001
+    ],
+    "PlaneName": {
+      "Hash": 2016788449
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20221,
+    "MazePoolType": 1,
+    "StartFloorID": 20221001
+  },
+  "20222": {
+    "FloorIDList": [
+      20222001
+    ],
+    "PlaneName": {
+      "Hash": 2016788452
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20222,
+    "MazePoolType": 1,
+    "StartFloorID": 20222001
+  },
+  "20223": {
+    "FloorIDList": [
+      20223001
+    ],
+    "PlaneName": {
+      "Hash": 2016788451
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20223,
+    "MazePoolType": 1,
+    "StartFloorID": 20223001
+  },
+  "20231": {
+    "FloorIDList": [
+      20231001,
+      20231002
+    ],
+    "PlaneName": {
+      "Hash": 450704508
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20231,
+    "MazePoolType": 1,
+    "StartFloorID": 20231001
+  },
+  "20232": {
+    "FloorIDList": [
+      20232001
+    ],
+    "PlaneName": {
+      "Hash": 450704511
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20232,
+    "MazePoolType": 1,
+    "StartFloorID": 20232001
+  },
+  "20233": {
+    "FloorIDList": [
+      20233001
+    ],
+    "PlaneName": {
+      "Hash": 450704510
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20233,
+    "MazePoolType": 1,
+    "StartFloorID": 20233001
+  },
+  "20241": {
+    "FloorIDList": [
+      20241001
+    ],
+    "PlaneName": {
+      "Hash": -1471609793
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20241,
+    "MazePoolType": 1,
+    "StartFloorID": 20241001
+  },
+  "20242": {
+    "FloorIDList": [
+      20242001
+    ],
+    "PlaneName": {
+      "Hash": -1471609790
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20242,
+    "MazePoolType": 1,
+    "StartFloorID": 20242001
+  },
+  "20243": {
+    "FloorIDList": [
+      20243001
+    ],
+    "PlaneName": {
+      "Hash": -1471609791
+    },
+    "PlaneType": "Maze",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 20243,
+    "MazePoolType": 1,
+    "StartFloorID": 20243001
+  },
+  "10301": {
+    "FloorIDList": [
+      10301001
+    ],
+    "PlaneName": {
+      "Hash": 853983757
+    },
+    "PlaneType": "Town",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 10301,
+    "MazePoolType": 1,
+    "StartFloorID": 10301001
+  },
+  "10304": {
+    "FloorIDList": [
+      10304001
+    ],
+    "PlaneName": {
+      "Hash": 853983754
+    },
+    "PlaneType": "Town",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 10304,
+    "MazePoolType": 1,
+    "StartFloorID": 10304001
+  },
+  "10305": {
+    "FloorIDList": [
+      10305001
+    ],
+    "PlaneName": {
+      "Hash": 853983753
+    },
+    "PlaneType": "Town",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 10305,
+    "MazePoolType": 1,
+    "StartFloorID": 10305001
+  },
+  "10341": {
+    "FloorIDList": [
+      10341001
+    ],
+    "PlaneName": {
+      "Hash": -1471615071
+    },
+    "PlaneType": "Town",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 10341,
+    "MazePoolType": 1,
+    "StartFloorID": 10341001
+  },
+  "20311": {
+    "FloorIDList": [
+      20311001
+    ],
+    "PlaneName": {
+      "Hash": -712095001
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20311,
+    "MazePoolType": 1,
+    "StartFloorID": 20311001
+  },
+  "20312": {
+    "FloorIDList": [
+      20312001
+    ],
+    "PlaneName": {
+      "Hash": -712095000
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20312,
+    "MazePoolType": 1,
+    "StartFloorID": 20312001
+  },
+  "20313": {
+    "FloorIDList": [
+      20313001
+    ],
+    "PlaneName": {
+      "Hash": -712094999
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20313,
+    "MazePoolType": 1,
+    "StartFloorID": 20313001
+  },
+  "20321": {
+    "FloorIDList": [
+      20321001
+    ],
+    "PlaneName": {
+      "Hash": 2016788354
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20321,
+    "MazePoolType": 1,
+    "StartFloorID": 20321001
+  },
+  "20322": {
+    "FloorIDList": [
+      20322001
+    ],
+    "PlaneName": {
+      "Hash": 2016788355
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20322,
+    "MazePoolType": 1,
+    "StartFloorID": 20322001
+  },
+  "20323": {
+    "FloorIDList": [
+      20323001
+    ],
+    "PlaneName": {
+      "Hash": 2016788356
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20323,
+    "MazePoolType": 1,
+    "StartFloorID": 20323001
+  },
+  "20331": {
+    "FloorIDList": [
+      20331001
+    ],
+    "PlaneName": {
+      "Hash": 450704413
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20331,
+    "MazePoolType": 1,
+    "StartFloorID": 20331001
+  },
+  "20332": {
+    "FloorIDList": [
+      20332001
+    ],
+    "PlaneName": {
+      "Hash": 450704414
+    },
+    "PlaneType": "Maze",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 20332,
+    "MazePoolType": 1,
+    "StartFloorID": 20332001
+  },
+  "30101": {
+    "FloorIDList": [
+      30101001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30101,
+    "MazePoolType": 2,
+    "StartFloorID": 30101001
+  },
+  "30102": {
+    "FloorIDList": [
+      30102001,
+      30102002,
+      30102003,
+      30102004,
+      30102005,
+      30102006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30102,
+    "MazePoolType": 2,
+    "StartFloorID": 30102001
+  },
+  "30103": {
+    "FloorIDList": [
+      30103001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30103,
+    "MazePoolType": 2,
+    "StartFloorID": 30103001
+  },
+  "30104": {
+    "FloorIDList": [
+      30104001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30104,
+    "MazePoolType": 2,
+    "StartFloorID": 30104001
+  },
+  "30105": {
+    "FloorIDList": [
+      30105001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30105,
+    "MazePoolType": 2,
+    "StartFloorID": 30105001
+  },
+  "30120": {
+    "FloorIDList": [
+      30120001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30120,
+    "MazePoolType": 1,
+    "StartFloorID": 30120001
+  },
+  "30121": {
+    "FloorIDList": [
+      30121001,
+      30121002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30121,
+    "MazePoolType": 2,
+    "StartFloorID": 30121001
+  },
+  "30122": {
+    "FloorIDList": [
+      30122001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30122,
+    "MazePoolType": 2,
+    "StartFloorID": 30122001
+  },
+  "30123": {
+    "FloorIDList": [
+      30123001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30123,
+    "MazePoolType": 2,
+    "StartFloorID": 30123001
+  },
+  "30124": {
+    "FloorIDList": [
+      30124001,
+      30124002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30124,
+    "MazePoolType": 2,
+    "StartFloorID": 30124001
+  },
+  "30125": {
+    "FloorIDList": [
+      30125001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30125,
+    "MazePoolType": 2,
+    "StartFloorID": 30125001
+  },
+  "30126": {
+    "FloorIDList": [
+      30126001,
+      30126002,
+      30126003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Challenge",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30126,
+    "MazePoolType": 2,
+    "StartFloorID": 30126001
+  },
+  "30201": {
+    "FloorIDList": [
+      30201001,
+      30202001,
+      30203001,
+      30204001,
+      30205001,
+      30206001
+    ],
+    "PlaneName": {
+      "Hash": 853985836
+    },
+    "PlaneType": "Raid",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30201,
+    "MazePoolType": 1,
+    "StartFloorID": 30201001
+  },
+  "30301": {
+    "FloorIDList": [
+      30301001,
+      30301002,
+      30301003,
+      30301004,
+      30301005,
+      30301006,
+      30301007
+    ],
+    "PlaneName": {
+      "Hash": 853985803
+    },
+    "PlaneType": "Raid",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30301,
+    "MazePoolType": 11,
+    "StartFloorID": 30301001
+  },
+  "30401": {
+    "FloorIDList": [
+      30401001,
+      30401002,
+      30401003,
+      30401004,
+      30401005
+    ],
+    "PlaneName": {
+      "Hash": 853985770
+    },
+    "PlaneType": "Raid",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30401,
+    "MazePoolType": 1,
+    "StartFloorID": 30401001
+  },
+  "30500": {
+    "FloorIDList": [
+      30500001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30500,
+    "MazePoolType": 15,
+    "StartFloorID": 30500001
+  },
+  "30501": {
+    "FloorIDList": [
+      30501001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30501,
+    "MazePoolType": 15,
+    "StartFloorID": 30501001
+  },
+  "30502": {
+    "FloorIDList": [
+      30502001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30502,
+    "MazePoolType": 15,
+    "StartFloorID": 30502001
+  },
+  "30521": {
+    "FloorIDList": [
+      30521001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30521,
+    "MazePoolType": 15,
+    "StartFloorID": 30521001
+  },
+  "30523": {
+    "FloorIDList": [
+      30523001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30523,
+    "MazePoolType": 15,
+    "StartFloorID": 30523001
+  },
+  "30524": {
+    "FloorIDList": [
+      30524001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30524,
+    "MazePoolType": 15,
+    "StartFloorID": 30524001
+  },
+  "30525": {
+    "FloorIDList": [
+      30525001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "TrialActivity",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 30525,
+    "MazePoolType": 15,
+    "StartFloorID": 30525001
+  },
+  "40000": {
+    "FloorIDList": [
+      40000001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 40000,
+    "MazePoolType": 1,
+    "StartFloorID": 40000001
+  },
+  "40002": {
+    "FloorIDList": [
+      40002001,
+      40002002,
+      40002003,
+      40002004,
+      40002101,
+      40002102,
+      40002103,
+      40002104
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 40002,
+    "MazePoolType": 1,
+    "StartFloorID": 40002001
+  },
+  "40003": {
+    "FloorIDList": [
+      40003001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 40003,
+    "MazePoolType": 1,
+    "StartFloorID": 40003001
+  },
+  "40101": {
+    "FloorIDList": [
+      40101001,
+      40101002,
+      40101003,
+      40101004,
+      40101006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40101,
+    "MazePoolType": 1,
+    "StartFloorID": 40101001
+  },
+  "40102": {
+    "FloorIDList": [
+      40102001,
+      40102002,
+      40102003,
+      40102004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40102,
+    "MazePoolType": 1,
+    "StartFloorID": 40102001
+  },
+  "40103": {
+    "FloorIDList": [
+      40103001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40103,
+    "MazePoolType": 1,
+    "StartFloorID": 40103001
+  },
+  "40104": {
+    "FloorIDList": [
+      40104001,
+      40104002,
+      40104003,
+      40104004,
+      40104005,
+      40104006,
+      40104007,
+      40104008,
+      40104009,
+      40104010,
+      40104011,
+      40104012,
+      40104013,
+      40104014,
+      40104015,
+      40104016,
+      40104017,
+      40104018,
+      40104019,
+      40104020,
+      40104021,
+      40104022,
+      40104023,
+      40104024
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40104,
+    "MazePoolType": 1,
+    "StartFloorID": 40104001
+  },
+  "40105": {
+    "FloorIDList": [
+      40105001,
+      40105002,
+      40105003,
+      40105004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40105,
+    "MazePoolType": 1,
+    "StartFloorID": 40105001
+  },
+  "40106": {
+    "FloorIDList": [
+      40106001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40106,
+    "MazePoolType": 1,
+    "StartFloorID": 40106001
+  },
+  "40107": {
+    "FloorIDList": [
+      40107001,
+      40107002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40107,
+    "MazePoolType": 1,
+    "StartFloorID": 40107001
+  },
+  "40111": {
+    "FloorIDList": [
+      40111001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40111,
+    "MazePoolType": 1,
+    "StartFloorID": 40111001
+  },
+  "40121": {
+    "FloorIDList": [
+      40121001,
+      40121002,
+      40121003,
+      40121005,
+      40121006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40121,
+    "MazePoolType": 1,
+    "StartFloorID": 40121001
+  },
+  "40122": {
+    "FloorIDList": [
+      40122001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40122,
+    "MazePoolType": 1,
+    "StartFloorID": 40122001
+  },
+  "40123": {
+    "FloorIDList": [
+      40123001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40123,
+    "MazePoolType": 1,
+    "StartFloorID": 40123001
+  },
+  "40131": {
+    "FloorIDList": [
+      40131001,
+      40131002,
+      40131003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 40131,
+    "MazePoolType": 1,
+    "StartFloorID": 40131001
+  },
+  "40211": {
+    "FloorIDList": [
+      40211001,
+      40211002,
+      40211003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40211,
+    "MazePoolType": 1,
+    "StartFloorID": 40211001
+  },
+  "40212": {
+    "FloorIDList": [
+      40212001,
+      40212002,
+      40212003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40212,
+    "MazePoolType": 1,
+    "StartFloorID": 40212001
+  },
+  "40221": {
+    "FloorIDList": [
+      40221001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40221,
+    "MazePoolType": 1,
+    "StartFloorID": 40221001
+  },
+  "40222": {
+    "FloorIDList": [
+      40222001,
+      40222002,
+      40222003,
+      40222004,
+      40222005,
+      40222006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40222,
+    "MazePoolType": 1,
+    "StartFloorID": 40222001
+  },
+  "40231": {
+    "FloorIDList": [
+      40231001,
+      40231003,
+      40231004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40231,
+    "MazePoolType": 1,
+    "StartFloorID": 40231001
+  },
+  "40232": {
+    "FloorIDList": [
+      40232001,
+      40232002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40232,
+    "MazePoolType": 1,
+    "StartFloorID": 40232001
+  },
+  "40233": {
+    "FloorIDList": [
+      40233001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40233,
+    "MazePoolType": 1,
+    "StartFloorID": 40233001
+  },
+  "40234": {
+    "FloorIDList": [
+      40234001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40234,
+    "MazePoolType": 1,
+    "StartFloorID": 40234001
+  },
+  "40235": {
+    "FloorIDList": [
+      40235001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40235,
+    "MazePoolType": 1,
+    "StartFloorID": 40235001
+  },
+  "40236": {
+    "FloorIDList": [
+      40236001,
+      40236002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40236,
+    "MazePoolType": 1,
+    "StartFloorID": 40236001
+  },
+  "40237": {
+    "FloorIDList": [
+      40237001,
+      40237002,
+      40237003,
+      40237004,
+      40237005,
+      40237006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40237,
+    "MazePoolType": 1,
+    "StartFloorID": 40237001
+  },
+  "40238": {
+    "FloorIDList": [
+      40238001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40238,
+    "MazePoolType": 1,
+    "StartFloorID": 40238001
+  },
+  "40242": {
+    "FloorIDList": [
+      40242001,
+      40242002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40242,
+    "MazePoolType": 1,
+    "StartFloorID": 40242001
+  },
+  "40243": {
+    "FloorIDList": [
+      40243001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 40243,
+    "MazePoolType": 1,
+    "StartFloorID": 40243001
+  },
+  "40312": {
+    "FloorIDList": [
+      40312001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 40312,
+    "MazePoolType": 1,
+    "StartFloorID": 40312001
+  },
+  "41000": {
+    "FloorIDList": [
+      41000001,
+      41000002,
+      41000003,
+      41000004,
+      41000005,
+      41000006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 41000,
+    "MazePoolType": 1,
+    "StartFloorID": 41000001
+  },
+  "41007": {
+    "FloorIDList": [
+      41000007
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 41007,
+    "MazePoolType": 1,
+    "StartFloorID": 41000007
+  },
+  "41008": {
+    "FloorIDList": [
+      41000008
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 41008,
+    "MazePoolType": 1,
+    "StartFloorID": 41000008
+  },
+  "41009": {
+    "FloorIDList": [
+      41000009
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 41009,
+    "MazePoolType": 1,
+    "StartFloorID": 41000009
+  },
+  "41010": {
+    "FloorIDList": [
+      41000010
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 41010,
+    "MazePoolType": 1,
+    "StartFloorID": 41000010
+  },
+  "41011": {
+    "FloorIDList": [
+      41000011
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 41011,
+    "MazePoolType": 1,
+    "StartFloorID": 41000011
+  },
+  "41012": {
+    "FloorIDList": [
+      41000012
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 41012,
+    "MazePoolType": 1,
+    "StartFloorID": 41000012
+  },
+  "41221": {
+    "FloorIDList": [
+      41221001,
+      41221002,
+      41221003,
+      41221004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 41221,
+    "MazePoolType": 1,
+    "StartFloorID": 42221001
+  },
+  "41212": {
+    "FloorIDList": [
+      41212001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 41212,
+    "MazePoolType": 1,
+    "StartFloorID": 41212001
+  },
+  "42221": {
+    "FloorIDList": [
+      42221001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 42221,
+    "MazePoolType": 1,
+    "StartFloorID": 42221001
+  },
+  "43001": {
+    "FloorIDList": [
+      43001001,
+      43001002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 100,
+    "SubType": 1,
+    "PlaneID": 43001,
+    "MazePoolType": 1,
+    "StartFloorID": 40004001
+  },
+  "43002": {
+    "FloorIDList": [
+      43002001,
+      43002002,
+      43002003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 43002,
+    "MazePoolType": 1,
+    "StartFloorID": 43002001
+  },
+  "43003": {
+    "FloorIDList": [
+      43003001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 43003,
+    "MazePoolType": 1,
+    "StartFloorID": 43003001
+  },
+  "43004": {
+    "FloorIDList": [
+      43004001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 43004,
+    "MazePoolType": 1,
+    "StartFloorID": 43004001
+  },
+  "43101": {
+    "FloorIDList": [
+      43101001,
+      43101002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 43101,
+    "MazePoolType": 1,
+    "StartFloorID": 43101001
+  },
+  "43102": {
+    "FloorIDList": [
+      43102001,
+      43102002,
+      43102003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 43102,
+    "MazePoolType": 1,
+    "StartFloorID": 43102001
+  },
+  "43103": {
+    "FloorIDList": [
+      43103001,
+      43103002,
+      43103003,
+      43103004,
+      43103005
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "AetherDivide",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 43103,
+    "MazePoolType": 1,
+    "StartFloorID": 43103001
+  },
+  "43104": {
+    "FloorIDList": [
+      43104001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 201,
+    "SubType": 1,
+    "PlaneID": 43104,
+    "MazePoolType": 1,
+    "StartFloorID": 43104001
+  },
+  "43201": {
+    "FloorIDList": [
+      43201001,
+      43201002,
+      43201003,
+      43201004,
+      43201005
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43201,
+    "MazePoolType": 1,
+    "StartFloorID": 43201001
+  },
+  "43202": {
+    "FloorIDList": [
+      43202001,
+      43202002,
+      43202003,
+      43202004,
+      43202005,
+      43202006
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43202,
+    "MazePoolType": 1,
+    "StartFloorID": 43202001
+  },
+  "43203": {
+    "FloorIDList": [
+      43203001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43203,
+    "MazePoolType": 1,
+    "StartFloorID": 43203001
+  },
+  "43204": {
+    "FloorIDList": [
+      43204001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43204,
+    "MazePoolType": 1,
+    "StartFloorID": 43204001
+  },
+  "43205": {
+    "FloorIDList": [
+      43205001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43205,
+    "MazePoolType": 1,
+    "StartFloorID": 43205001
+  },
+  "43206": {
+    "FloorIDList": [
+      43206001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43206,
+    "MazePoolType": 1,
+    "StartFloorID": 43206001
+  },
+  "43207": {
+    "FloorIDList": [
+      43207001,
+      43207002,
+      43207003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43207,
+    "MazePoolType": 1,
+    "StartFloorID": 43207001
+  },
+  "43208": {
+    "FloorIDList": [
+      43208001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43208,
+    "MazePoolType": 1,
+    "StartFloorID": 43208001
+  },
+  "43209": {
+    "FloorIDList": [
+      43209001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43209,
+    "MazePoolType": 1,
+    "StartFloorID": 43209001
+  },
+  "43210": {
+    "FloorIDList": [
+      43210001,
+      43210002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43210,
+    "MazePoolType": 1,
+    "StartFloorID": 43210001
+  },
+  "43211": {
+    "FloorIDList": [
+      43211001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43211,
+    "MazePoolType": 1,
+    "StartFloorID": 43211001
+  },
+  "43212": {
+    "FloorIDList": [
+      43212001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43212,
+    "MazePoolType": 1,
+    "StartFloorID": 43212001
+  },
+  "43213": {
+    "FloorIDList": [
+      43213001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43213,
+    "MazePoolType": 1,
+    "StartFloorID": 43213001
+  },
+  "43214": {
+    "FloorIDList": [
+      43214001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43214,
+    "MazePoolType": 1,
+    "StartFloorID": 43214001
+  },
+  "43215": {
+    "FloorIDList": [
+      43215001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43215,
+    "MazePoolType": 1,
+    "StartFloorID": 43215001
+  },
+  "43216": {
+    "FloorIDList": [
+      43216001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43216,
+    "MazePoolType": 1,
+    "StartFloorID": 43215001
+  },
+  "43217": {
+    "FloorIDList": [
+      43217001,
+      43217002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43217,
+    "MazePoolType": 1,
+    "StartFloorID": 43215001
+  },
+  "43218": {
+    "FloorIDList": [
+      43218001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 43218,
+    "MazePoolType": 1,
+    "StartFloorID": 43215001
+  },
+  "43301": {
+    "FloorIDList": [
+      40311001,
+      43301001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43301,
+    "MazePoolType": 1,
+    "StartFloorID": 43301001
+  },
+  "43302": {
+    "FloorIDList": [
+      43302001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43302,
+    "MazePoolType": 1,
+    "StartFloorID": 43301001
+  },
+  "43303": {
+    "FloorIDList": [
+      43303001,
+      43303002,
+      43303003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43303,
+    "MazePoolType": 1,
+    "StartFloorID": 43301001
+  },
+  "43304": {
+    "FloorIDList": [
+      43304001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43304,
+    "MazePoolType": 1,
+    "StartFloorID": 43304001
+  },
+  "43305": {
+    "FloorIDList": [
+      43305001,
+      43305002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43305,
+    "MazePoolType": 1,
+    "StartFloorID": 43305001
+  },
+  "43306": {
+    "FloorIDList": [
+      43306001,
+      43306002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43306,
+    "MazePoolType": 1,
+    "StartFloorID": 43306001
+  },
+  "43307": {
+    "FloorIDList": [
+      43307001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43307,
+    "MazePoolType": 1,
+    "StartFloorID": 43307001
+  },
+  "43308": {
+    "FloorIDList": [
+      43308001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43308,
+    "MazePoolType": 1,
+    "StartFloorID": 43308001
+  },
+  "43310": {
+    "FloorIDList": [
+      43310001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43310,
+    "MazePoolType": 1,
+    "StartFloorID": 43310001
+  },
+  "43312": {
+    "FloorIDList": [
+      43312001,
+      43312003,
+      43312002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43312,
+    "MazePoolType": 1,
+    "StartFloorID": 43312001
+  },
+  "43313": {
+    "FloorIDList": [
+      43313001,
+      43313002,
+      43313003,
+      43313004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43313,
+    "MazePoolType": 1,
+    "StartFloorID": 43313001
+  },
+  "43314": {
+    "FloorIDList": [
+      43314001
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43314,
+    "MazePoolType": 1,
+    "StartFloorID": 43314001
+  },
+  "43321": {
+    "FloorIDList": [
+      43321001,
+      43321002
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43321,
+    "MazePoolType": 1,
+    "StartFloorID": 43321001
+  },
+  "44001": {
+    "FloorIDList": [
+      44001001,
+      44001002,
+      44001003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 44001,
+    "MazePoolType": 1,
+    "StartFloorID": 44001001
+  },
+  "44201": {
+    "FloorIDList": [
+      44201001,
+      44201002,
+      44201003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 44201,
+    "MazePoolType": 1,
+    "StartFloorID": 44201001
+  },
+  "44202": {
+    "FloorIDList": [
+      44202001,
+      44202002,
+      44202003,
+      44202004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 301,
+    "SubType": 1,
+    "PlaneID": 44202,
+    "MazePoolType": 44202,
+    "StartFloorID": 44202001
+  },
+  "44301": {
+    "FloorIDList": [
+      44301001,
+      44301002,
+      44301003,
+      44301004,
+      44301005,
+      44301006,
+      44301007,
+      44301008,
+      44301009,
+      44301010,
+      44301011,
+      44301012,
+      44301013,
+      44301014,
+      44301015,
+      44301016,
+      44301017,
+      44301018,
+      44301019,
+      44301020,
+      44301021,
+      44301022
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 44301,
+    "MazePoolType": 1,
+    "StartFloorID": 44301001
+  },
+  "44302": {
+    "FloorIDList": [
+      44302001,
+      44302002,
+      44302003,
+      44302004
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 44302,
+    "MazePoolType": 1,
+    "StartFloorID": 44302001
+  },
+  "44303": {
+    "FloorIDList": [
+      44303001,
+      44303002,
+      44303003
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 44303,
+    "MazePoolType": 1,
+    "StartFloorID": 44303001
+  },
+  "44305": {
+    "FloorIDList": [
+      44305001,
+      44305002,
+      44305003,
+      44305004,
+      44305005
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 44305,
+    "MazePoolType": 1,
+    "StartFloorID": 44305001
+  },
+  "43322": {
+    "FloorIDList": [
+      43322001,
+      43322002,
+      43322003,
+      43322004,
+      43322005
+    ],
+    "PlaneName": {
+      "Hash": 1354018532
+    },
+    "PlaneType": "Raid",
+    "WorldID": 401,
+    "SubType": 1,
+    "PlaneID": 43322,
+    "MazePoolType": 1,
+    "StartFloorID": 43322001
+  },
+  "80000": {
+    "FloorIDList": [
+      80000001
+    ],
+    "PlaneName": {
+      "Hash": 853995636
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 999,
+    "SubType": 1,
+    "PlaneID": 80000,
+    "MazePoolType": 3,
+    "StartFloorID": 80000001
+  },
+  "80001": {
+    "FloorIDList": [
+      80001001,
+      80001002,
+      80001003
+    ],
+    "PlaneName": {
+      "Hash": 853995635
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80001,
+    "MazePoolType": 3,
+    "StartFloorID": 80001001
+  },
+  "81001": {
+    "FloorIDList": [
+      81001001
+    ],
+    "PlaneName": {
+      "Hash": -732291282
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81001,
+    "MazePoolType": 3,
+    "StartFloorID": 81001001
+  },
+  "81002": {
+    "FloorIDList": [
+      81002001
+    ],
+    "PlaneName": {
+      "Hash": -732291279
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81002,
+    "MazePoolType": 3,
+    "StartFloorID": 81002001
+  },
+  "81003": {
+    "FloorIDList": [
+      81003001
+    ],
+    "PlaneName": {
+      "Hash": -732291280
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81003,
+    "MazePoolType": 3,
+    "StartFloorID": 81003001
+  },
+  "81004": {
+    "FloorIDList": [
+      81004001
+    ],
+    "PlaneName": {
+      "Hash": -732291285
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81004,
+    "MazePoolType": 3,
+    "StartFloorID": 81004001
+  },
+  "81111": {
+    "FloorIDList": [
+      81111001
+    ],
+    "PlaneName": {
+      "Hash": 833792564
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81111,
+    "MazePoolType": 3,
+    "StartFloorID": 81111001
+  },
+  "81131": {
+    "FloorIDList": [
+      81131001
+    ],
+    "PlaneName": {
+      "Hash": 1996591978
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81131,
+    "MazePoolType": 3,
+    "StartFloorID": 81131001
+  },
+  "81132": {
+    "FloorIDList": [
+      81132001
+    ],
+    "PlaneName": {
+      "Hash": 1996591979
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81132,
+    "MazePoolType": 3,
+    "StartFloorID": 81132001
+  },
+  "81121": {
+    "FloorIDList": [
+      81121001
+    ],
+    "PlaneName": {
+      "Hash": 430508037
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81121,
+    "MazePoolType": 3,
+    "StartFloorID": 81121001
+  },
+  "81122": {
+    "FloorIDList": [
+      81122001
+    ],
+    "PlaneName": {
+      "Hash": 430508038
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81122,
+    "MazePoolType": 3,
+    "StartFloorID": 81122001
+  },
+  "81123": {
+    "FloorIDList": [
+      81123001
+    ],
+    "PlaneName": {
+      "Hash": 430508039
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81123,
+    "MazePoolType": 3,
+    "StartFloorID": 81123001
+  },
+  "81211": {
+    "FloorIDList": [
+      81211001
+    ],
+    "PlaneName": {
+      "Hash": 833792725
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81211,
+    "MazePoolType": 3,
+    "StartFloorID": 81211001
+  },
+  "81212": {
+    "FloorIDList": [
+      81212001
+    ],
+    "PlaneName": {
+      "Hash": 833792724
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81212,
+    "MazePoolType": 3,
+    "StartFloorID": 81212001
+  },
+  "81221": {
+    "FloorIDList": [
+      81221001
+    ],
+    "PlaneName": {
+      "Hash": 430508198
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81221,
+    "MazePoolType": 3,
+    "StartFloorID": 81221001
+  },
+  "81222": {
+    "FloorIDList": [
+      81222001
+    ],
+    "PlaneName": {
+      "Hash": 430508197
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81222,
+    "MazePoolType": 3,
+    "StartFloorID": 81222001
+  },
+  "81223": {
+    "FloorIDList": [
+      81223001
+    ],
+    "PlaneName": {
+      "Hash": 430508196
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81223,
+    "MazePoolType": 3,
+    "StartFloorID": 81223001
+  },
+  "81231": {
+    "FloorIDList": [
+      81231001
+    ],
+    "PlaneName": {
+      "Hash": 1996592139
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81231,
+    "MazePoolType": 3,
+    "StartFloorID": 81231001
+  },
+  "81232": {
+    "FloorIDList": [
+      81232001
+    ],
+    "PlaneName": {
+      "Hash": 1996592138
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81232,
+    "MazePoolType": 3,
+    "StartFloorID": 81232001
+  },
+  "81311": {
+    "FloorIDList": [
+      81311001
+    ],
+    "PlaneName": {
+      "Hash": 833792630
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81311,
+    "MazePoolType": 3,
+    "StartFloorID": 81311001
+  },
+  "81312": {
+    "FloorIDList": [
+      81312001
+    ],
+    "PlaneName": {
+      "Hash": 833792627
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81312,
+    "MazePoolType": 3,
+    "StartFloorID": 81312001
+  },
+  "81313": {
+    "FloorIDList": [
+      81313001
+    ],
+    "PlaneName": {
+      "Hash": 833792628
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 81313,
+    "MazePoolType": 3,
+    "StartFloorID": 81313001
+  },
+  "80200": {
+    "FloorIDList": [
+      80200001,
+      80200002,
+      80200003,
+      80200004,
+      80200005,
+      80200006,
+      80200007,
+      80200008
+    ],
+    "PlaneName": {
+      "Hash": 853995702
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80200,
+    "MazePoolType": 4,
+    "StartFloorID": 80200001
+  },
+  "80201": {
+    "FloorIDList": [
+      80201001
+    ],
+    "PlaneName": {
+      "Hash": 853995701
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80201,
+    "MazePoolType": 4,
+    "StartFloorID": 80201001
+  },
+  "80202": {
+    "FloorIDList": [
+      80202001
+    ],
+    "PlaneName": {
+      "Hash": 853995700
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80202,
+    "MazePoolType": 4,
+    "StartFloorID": 80202001
+  },
+  "80203": {
+    "FloorIDList": [
+      80203001
+    ],
+    "PlaneName": {
+      "Hash": 853995699
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80203,
+    "MazePoolType": 4,
+    "StartFloorID": 80203001
+  },
+  "80204": {
+    "FloorIDList": [
+      80204001
+    ],
+    "PlaneName": {
+      "Hash": 853995698
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80204,
+    "MazePoolType": 4,
+    "StartFloorID": 80204001
+  },
+  "80205": {
+    "FloorIDList": [
+      80205001
+    ],
+    "PlaneName": {
+      "Hash": 853995697
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80205,
+    "MazePoolType": 4,
+    "StartFloorID": 80205001
+  },
+  "80206": {
+    "FloorIDList": [
+      80206001
+    ],
+    "PlaneName": {
+      "Hash": 853995696
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80206,
+    "MazePoolType": 4,
+    "StartFloorID": 80206001
+  },
+  "80207": {
+    "FloorIDList": [
+      80207001
+    ],
+    "PlaneName": {
+      "Hash": 853995695
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80207,
+    "MazePoolType": 4,
+    "StartFloorID": 80207001
+  },
+  "80208": {
+    "FloorIDList": [
+      80208001
+    ],
+    "PlaneName": {
+      "Hash": 853995694
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80208,
+    "MazePoolType": 4,
+    "StartFloorID": 80208001
+  },
+  "80209": {
+    "FloorIDList": [
+      80209001
+    ],
+    "PlaneName": {
+      "Hash": 853995693
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80209,
+    "MazePoolType": 4,
+    "StartFloorID": 80209001
+  },
+  "80210": {
+    "FloorIDList": [
+      80210001
+    ],
+    "PlaneName": {
+      "Hash": -712088239
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80210,
+    "MazePoolType": 4,
+    "StartFloorID": 80210001
+  },
+  "80211": {
+    "FloorIDList": [
+      80211001
+    ],
+    "PlaneName": {
+      "Hash": -712088240
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 2,
+    "PlaneID": 80211,
+    "MazePoolType": 4,
+    "StartFloorID": 80211001
+  },
+  "80301": {
+    "FloorIDList": [
+      80301001,
+      80301002
+    ],
+    "PlaneName": {
+      "Hash": 853995606
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80301,
+    "MazePoolType": 80301,
+    "StartFloorID": 80301001
+  },
+  "80302": {
+    "FloorIDList": [
+      80302001,
+      80302002
+    ],
+    "PlaneName": {
+      "Hash": 853995603
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80302,
+    "MazePoolType": 80302,
+    "StartFloorID": 80302001
+  },
+  "80303": {
+    "FloorIDList": [
+      80303001
+    ],
+    "PlaneName": {
+      "Hash": 853995604
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80303,
+    "MazePoolType": 80303,
+    "StartFloorID": 80303001
+  },
+  "80304": {
+    "FloorIDList": [
+      80304001
+    ],
+    "PlaneName": {
+      "Hash": 853995601
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80304,
+    "MazePoolType": 80304,
+    "StartFloorID": 80304001
+  },
+  "80305": {
+    "FloorIDList": [
+      80305001
+    ],
+    "PlaneName": {
+      "Hash": 853995602
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 1,
+    "PlaneID": 80305,
+    "MazePoolType": 80305,
+    "StartFloorID": 80305001
+  },
+  "80400": {
+    "FloorIDList": [
+      80400001
+    ],
+    "PlaneName": {
+      "Hash": 853995504
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 4,
+    "PlaneID": 80400,
+    "MazePoolType": 80400,
+    "StartFloorID": 80400001
+  },
+  "80401": {
+    "FloorIDList": [
+      80401001
+    ],
+    "PlaneName": {
+      "Hash": 853995503
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80401,
+    "MazePoolType": 804,
+    "StartFloorID": 80401001
+  },
+  "80402": {
+    "FloorIDList": [
+      80402001
+    ],
+    "PlaneName": {
+      "Hash": 853995506
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80402,
+    "MazePoolType": 804,
+    "StartFloorID": 80402001
+  },
+  "80403": {
+    "FloorIDList": [
+      80403001
+    ],
+    "PlaneName": {
+      "Hash": 853995505
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80403,
+    "MazePoolType": 804,
+    "StartFloorID": 80403001
+  },
+  "80404": {
+    "FloorIDList": [
+      80404001
+    ],
+    "PlaneName": {
+      "Hash": 853995508
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80404,
+    "MazePoolType": 804,
+    "StartFloorID": 80404001
+  },
+  "80405": {
+    "FloorIDList": [
+      80405001
+    ],
+    "PlaneName": {
+      "Hash": 853995507
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80405,
+    "MazePoolType": 804,
+    "StartFloorID": 80405001
+  },
+  "80406": {
+    "FloorIDList": [
+      80406001
+    ],
+    "PlaneName": {
+      "Hash": 853995510
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80406,
+    "MazePoolType": 804,
+    "StartFloorID": 80406001
+  },
+  "80407": {
+    "FloorIDList": [
+      80407001
+    ],
+    "PlaneName": {
+      "Hash": 853995509
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80407,
+    "MazePoolType": 804,
+    "StartFloorID": 80407001
+  },
+  "80408": {
+    "FloorIDList": [
+      80408001,
+      80408002,
+      80408003,
+      80408004,
+      80408005,
+      80408006,
+      80408007,
+      80408008
+    ],
+    "PlaneName": {
+      "Hash": 853995496
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 3,
+    "PlaneID": 80408,
+    "MazePoolType": 804,
+    "StartFloorID": 80408001
+  },
+  "80409": {
+    "FloorIDList": [
+      80409001,
+      80409002,
+      80409003,
+      80409004,
+      80409005,
+      80409006,
+      80409007
+    ],
+    "PlaneName": {
+      "Hash": 853995495
+    },
+    "PlaneType": "Rogue",
+    "WorldID": 101,
+    "SubType": 5,
+    "PlaneID": 80409,
+    "MazePoolType": 80409,
+    "StartFloorID": 80409001
+  }
+}

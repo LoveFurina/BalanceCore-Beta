@@ -1,0 +1,4484 @@
+{
+  "600000": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 100,
+    "MazeBuffID": 600000,
+    "RogueBuffTag": 1000010,
+    "RogueBuffCategory": "Common"
+  },
+  "612020": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612020,
+    "RogueBuffTag": 1202001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612021": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612021,
+    "RogueBuffTag": 1202101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612022": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000006
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612022,
+    "RogueBuffTag": 1202201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612023": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612023,
+    "RogueBuffTag": 1202301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612024": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_001.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612024,
+    "RogueBuffTag": 1202401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612025": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_002.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612025,
+    "RogueBuffTag": 1202501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612026": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_017.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612026,
+    "RogueBuffTag": 1202601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612027": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_018.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 1,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612027,
+    "RogueBuffTag": 1202701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612120": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612120,
+    "RogueBuffTag": 1212001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612121": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612121,
+    "RogueBuffTag": 1212101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612122": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000015
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612122,
+    "RogueBuffTag": 1212201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612123": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612123,
+    "RogueBuffTag": 1212301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612124": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_004.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612124,
+    "RogueBuffTag": 1212401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612125": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_003.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612125,
+    "RogueBuffTag": 1212501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612126": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_019.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612126,
+    "RogueBuffTag": 1212601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612127": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_020.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 2,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612127,
+    "RogueBuffTag": 1212701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612220": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612220,
+    "RogueBuffTag": 1222001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612221": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612221,
+    "RogueBuffTag": 1222101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612222": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000007,
+      60000008
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612222,
+    "RogueBuffTag": 1222201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612223": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612223,
+    "RogueBuffTag": 1222301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612224": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_005.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612224,
+    "RogueBuffTag": 1222401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612225": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_006.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612225,
+    "RogueBuffTag": 1222501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612226": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_021.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612226,
+    "RogueBuffTag": 1222601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612227": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_022.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 3,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612227,
+    "RogueBuffTag": 1222701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612320": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612320,
+    "RogueBuffTag": 1232001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612321": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612321,
+    "RogueBuffTag": 1232101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612322": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000009
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612322,
+    "RogueBuffTag": 1232201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612323": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612323,
+    "RogueBuffTag": 1232301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612324": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_008.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612324,
+    "RogueBuffTag": 1232401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612325": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_007.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612325,
+    "RogueBuffTag": 1232501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612326": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_023.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612326,
+    "RogueBuffTag": 1232601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612327": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_024.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 4,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612327,
+    "RogueBuffTag": 1232701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612420": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612420,
+    "RogueBuffTag": 1242001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612421": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000010
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612421,
+    "RogueBuffTag": 1242101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612422": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612422,
+    "RogueBuffTag": 1242201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612423": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612423,
+    "RogueBuffTag": 1242301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612424": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_010.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612424,
+    "RogueBuffTag": 1242401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612425": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_009.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612425,
+    "RogueBuffTag": 1242501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612426": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_025.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612426,
+    "RogueBuffTag": 1242601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612427": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_026.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 5,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612427,
+    "RogueBuffTag": 1242701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612520": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612520,
+    "RogueBuffTag": 1252001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612521": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612521,
+    "RogueBuffTag": 1252101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612522": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000011
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612522,
+    "RogueBuffTag": 1252201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612523": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612523,
+    "RogueBuffTag": 1252301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612524": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_011.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612524,
+    "RogueBuffTag": 1252401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612525": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_012.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612525,
+    "RogueBuffTag": 1252501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612526": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_027.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612526,
+    "RogueBuffTag": 1252601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612527": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_028.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 6,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612527,
+    "RogueBuffTag": 1252701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612620": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612620,
+    "RogueBuffTag": 1262001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612621": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000014
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612621,
+    "RogueBuffTag": 1262101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612622": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612622,
+    "RogueBuffTag": 1262201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612623": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612623,
+    "RogueBuffTag": 1262301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612624": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_014.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612624,
+    "RogueBuffTag": 1262401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612625": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_013.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612625,
+    "RogueBuffTag": 1262501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612626": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_029.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612626,
+    "RogueBuffTag": 1262601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612627": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_030.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 7,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612627,
+    "RogueBuffTag": 1262701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612720": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000016
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612720,
+    "RogueBuffTag": 1272001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612721": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000016
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612721,
+    "RogueBuffTag": 1272101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612722": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612722,
+    "RogueBuffTag": 1272201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612723": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000016,
+      60000017
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612723,
+    "RogueBuffTag": 1272301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612724": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_016.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612724,
+    "RogueBuffTag": 1272401,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612725": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_015.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272937
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612725,
+    "RogueBuffTag": 1272501,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612726": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_031.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612726,
+    "RogueBuffTag": 1272601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612727": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_032.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000016
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 8,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612727,
+    "RogueBuffTag": 1272701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612820": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000043
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuff",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612820,
+    "RogueBuffTag": 1282001,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612821": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000043
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612821,
+    "RogueBuffTag": 1282101,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612822": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000043
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612822,
+    "RogueBuffTag": 1282201,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612823": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuffEnhance",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612823,
+    "RogueBuffTag": 1282301,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612826": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_033.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000043
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612826,
+    "RogueBuffTag": 1282601,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612827": {
+    "AeonCrossIcon": "SpriteOutput/Rogue/HoshinoKamiCombination/HoshinoKamiCombination_034.png",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000043
+    ],
+    "MazeBuffLevel": 1,
+    "RogueVersion": 1,
+    "AeonID": 9,
+    "BattleEventBuffType": "BattleEventBuffCross",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272938
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612827,
+    "RogueBuffTag": 1282701,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612030": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612030,
+    "RogueBuffTag": 1203002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612031": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612031,
+    "RogueBuffTag": 1203102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612032": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612032,
+    "RogueBuffTag": 1203202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612040": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612040,
+    "RogueBuffTag": 1204002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612041": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612041,
+    "RogueBuffTag": 1204102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612042": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612042,
+    "RogueBuffTag": 1204202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612043": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612043,
+    "RogueBuffTag": 1204302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612044": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612044,
+    "RogueBuffTag": 1204402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612045": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612045,
+    "RogueBuffTag": 1204502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612046": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612046,
+    "RogueBuffTag": 1204602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612050": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612050,
+    "RogueBuffTag": 1205002,
+    "RogueBuffCategory": "Common"
+  },
+  "612051": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612051,
+    "RogueBuffTag": 1205102,
+    "RogueBuffCategory": "Common"
+  },
+  "612052": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612052,
+    "RogueBuffTag": 1205202,
+    "RogueBuffCategory": "Common"
+  },
+  "612053": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612053,
+    "RogueBuffTag": 1205302,
+    "RogueBuffCategory": "Common"
+  },
+  "612054": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612054,
+    "RogueBuffTag": 1205402,
+    "RogueBuffCategory": "Common"
+  },
+  "612055": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612055,
+    "RogueBuffTag": 1205502,
+    "RogueBuffCategory": "Common"
+  },
+  "612056": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612056,
+    "RogueBuffTag": 1205602,
+    "RogueBuffCategory": "Common"
+  },
+  "612057": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 612057,
+    "RogueBuffTag": 1205702,
+    "RogueBuffCategory": "Common"
+  },
+  "612130": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612130,
+    "RogueBuffTag": 1213002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612131": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612131,
+    "RogueBuffTag": 1213102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612132": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612132,
+    "RogueBuffTag": 1213202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612140": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612140,
+    "RogueBuffTag": 1214002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612141": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612141,
+    "RogueBuffTag": 1214102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612142": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000002
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612142,
+    "RogueBuffTag": 1214202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612143": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612143,
+    "RogueBuffTag": 1214302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612144": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612144,
+    "RogueBuffTag": 1214402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612145": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612145,
+    "RogueBuffTag": 1214502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612146": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612146,
+    "RogueBuffTag": 1214602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612150": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612150,
+    "RogueBuffTag": 1215002,
+    "RogueBuffCategory": "Common"
+  },
+  "612151": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612151,
+    "RogueBuffTag": 1215102,
+    "RogueBuffCategory": "Common"
+  },
+  "612152": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612152,
+    "RogueBuffTag": 1215202,
+    "RogueBuffCategory": "Common"
+  },
+  "612153": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612153,
+    "RogueBuffTag": 1215302,
+    "RogueBuffCategory": "Common"
+  },
+  "612154": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612154,
+    "RogueBuffTag": 1215402,
+    "RogueBuffCategory": "Common"
+  },
+  "612155": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612155,
+    "RogueBuffTag": 1215502,
+    "RogueBuffCategory": "Common"
+  },
+  "612156": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612156,
+    "RogueBuffTag": 1215602,
+    "RogueBuffCategory": "Common"
+  },
+  "612157": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 612157,
+    "RogueBuffTag": 1215702,
+    "RogueBuffCategory": "Common"
+  },
+  "612230": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612230,
+    "RogueBuffTag": 1223002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612231": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612231,
+    "RogueBuffTag": 1223102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612232": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612232,
+    "RogueBuffTag": 1223202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612240": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612240,
+    "RogueBuffTag": 1224002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612241": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612241,
+    "RogueBuffTag": 1224102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612242": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000012
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612242,
+    "RogueBuffTag": 1224202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612243": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612243,
+    "RogueBuffTag": 1224302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612244": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612244,
+    "RogueBuffTag": 1224402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612245": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612245,
+    "RogueBuffTag": 1224502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612246": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612246,
+    "RogueBuffTag": 1224602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612250": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612250,
+    "RogueBuffTag": 1225002,
+    "RogueBuffCategory": "Common"
+  },
+  "612251": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612251,
+    "RogueBuffTag": 1225102,
+    "RogueBuffCategory": "Common"
+  },
+  "612252": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612252,
+    "RogueBuffTag": 1225202,
+    "RogueBuffCategory": "Common"
+  },
+  "612253": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612253,
+    "RogueBuffTag": 1225302,
+    "RogueBuffCategory": "Common"
+  },
+  "612254": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612254,
+    "RogueBuffTag": 1225402,
+    "RogueBuffCategory": "Common"
+  },
+  "612255": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612255,
+    "RogueBuffTag": 1225502,
+    "RogueBuffCategory": "Common"
+  },
+  "612256": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612256,
+    "RogueBuffTag": 1225602,
+    "RogueBuffCategory": "Common"
+  },
+  "612257": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 612257,
+    "RogueBuffTag": 1225702,
+    "RogueBuffCategory": "Common"
+  },
+  "612330": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612330,
+    "RogueBuffTag": 1233002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612331": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612331,
+    "RogueBuffTag": 1233102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612332": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612332,
+    "RogueBuffTag": 1233202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612340": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612340,
+    "RogueBuffTag": 1234002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612341": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612341,
+    "RogueBuffTag": 1234102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612342": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612342,
+    "RogueBuffTag": 1234202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612343": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612343,
+    "RogueBuffTag": 1234302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612344": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612344,
+    "RogueBuffTag": 1234402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612345": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612345,
+    "RogueBuffTag": 1234502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612346": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612346,
+    "RogueBuffTag": 1234602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612350": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612350,
+    "RogueBuffTag": 1235002,
+    "RogueBuffCategory": "Common"
+  },
+  "612351": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612351,
+    "RogueBuffTag": 1235102,
+    "RogueBuffCategory": "Common"
+  },
+  "612352": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612352,
+    "RogueBuffTag": 1235202,
+    "RogueBuffCategory": "Common"
+  },
+  "612353": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612353,
+    "RogueBuffTag": 1235302,
+    "RogueBuffCategory": "Common"
+  },
+  "612354": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612354,
+    "RogueBuffTag": 1235402,
+    "RogueBuffCategory": "Common"
+  },
+  "612355": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612355,
+    "RogueBuffTag": 1235502,
+    "RogueBuffCategory": "Common"
+  },
+  "612356": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612356,
+    "RogueBuffTag": 1235602,
+    "RogueBuffCategory": "Common"
+  },
+  "612357": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 612357,
+    "RogueBuffTag": 1235702,
+    "RogueBuffCategory": "Common"
+  },
+  "612430": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612430,
+    "RogueBuffTag": 1243002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612431": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612431,
+    "RogueBuffTag": 1243102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612432": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612432,
+    "RogueBuffTag": 1243202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612440": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612440,
+    "RogueBuffTag": 1244002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612441": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612441,
+    "RogueBuffTag": 1244102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612442": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612442,
+    "RogueBuffTag": 1244202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612443": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612443,
+    "RogueBuffTag": 1244302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612444": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612444,
+    "RogueBuffTag": 1244402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612445": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612445,
+    "RogueBuffTag": 1244502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612446": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612446,
+    "RogueBuffTag": 1244602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612450": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612450,
+    "RogueBuffTag": 1245002,
+    "RogueBuffCategory": "Common"
+  },
+  "612451": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612451,
+    "RogueBuffTag": 1245102,
+    "RogueBuffCategory": "Common"
+  },
+  "612452": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612452,
+    "RogueBuffTag": 1245202,
+    "RogueBuffCategory": "Common"
+  },
+  "612453": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612453,
+    "RogueBuffTag": 1245302,
+    "RogueBuffCategory": "Common"
+  },
+  "612454": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612454,
+    "RogueBuffTag": 1245402,
+    "RogueBuffCategory": "Common"
+  },
+  "612455": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612455,
+    "RogueBuffTag": 1245502,
+    "RogueBuffCategory": "Common"
+  },
+  "612456": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612456,
+    "RogueBuffTag": 1245602,
+    "RogueBuffCategory": "Common"
+  },
+  "612457": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 612457,
+    "RogueBuffTag": 1245702,
+    "RogueBuffCategory": "Common"
+  },
+  "612530": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612530,
+    "RogueBuffTag": 1253002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612531": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612531,
+    "RogueBuffTag": 1253102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612532": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612532,
+    "RogueBuffTag": 1253202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612540": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612540,
+    "RogueBuffTag": 1254002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612541": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612541,
+    "RogueBuffTag": 1254102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612542": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000005
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612542,
+    "RogueBuffTag": 1254202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612543": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612543,
+    "RogueBuffTag": 1254302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612544": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612544,
+    "RogueBuffTag": 1254402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612545": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612545,
+    "RogueBuffTag": 1254502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612546": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612546,
+    "RogueBuffTag": 1254602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612550": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612550,
+    "RogueBuffTag": 1255002,
+    "RogueBuffCategory": "Common"
+  },
+  "612551": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612551,
+    "RogueBuffTag": 1255102,
+    "RogueBuffCategory": "Common"
+  },
+  "612552": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612552,
+    "RogueBuffTag": 1255202,
+    "RogueBuffCategory": "Common"
+  },
+  "612553": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612553,
+    "RogueBuffTag": 1255302,
+    "RogueBuffCategory": "Common"
+  },
+  "612554": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612554,
+    "RogueBuffTag": 1255402,
+    "RogueBuffCategory": "Common"
+  },
+  "612555": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612555,
+    "RogueBuffTag": 1255502,
+    "RogueBuffCategory": "Common"
+  },
+  "612556": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612556,
+    "RogueBuffTag": 1255602,
+    "RogueBuffCategory": "Common"
+  },
+  "612557": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 612557,
+    "RogueBuffTag": 1255702,
+    "RogueBuffCategory": "Common"
+  },
+  "612630": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612630,
+    "RogueBuffTag": 1263002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612631": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612631,
+    "RogueBuffTag": 1263102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612632": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612632,
+    "RogueBuffTag": 1263202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612640": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612640,
+    "RogueBuffTag": 1264002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612641": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612641,
+    "RogueBuffTag": 1264102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612642": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612642,
+    "RogueBuffTag": 1264202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612643": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612643,
+    "RogueBuffTag": 1264302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612644": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612644,
+    "RogueBuffTag": 1264402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612645": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612645,
+    "RogueBuffTag": 1264502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612646": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612646,
+    "RogueBuffTag": 1264602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612650": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612650,
+    "RogueBuffTag": 1265002,
+    "RogueBuffCategory": "Common"
+  },
+  "612651": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612651,
+    "RogueBuffTag": 1265102,
+    "RogueBuffCategory": "Common"
+  },
+  "612652": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612652,
+    "RogueBuffTag": 1265202,
+    "RogueBuffCategory": "Common"
+  },
+  "612653": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612653,
+    "RogueBuffTag": 1265302,
+    "RogueBuffCategory": "Common"
+  },
+  "612654": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612654,
+    "RogueBuffTag": 1265402,
+    "RogueBuffCategory": "Common"
+  },
+  "612655": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612655,
+    "RogueBuffTag": 1265502,
+    "RogueBuffCategory": "Common"
+  },
+  "612656": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612656,
+    "RogueBuffTag": 1265602,
+    "RogueBuffCategory": "Common"
+  },
+  "612657": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 612657,
+    "RogueBuffTag": 1265702,
+    "RogueBuffCategory": "Common"
+  },
+  "612730": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612730,
+    "RogueBuffTag": 1273002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612731": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612731,
+    "RogueBuffTag": 1273102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612732": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612732,
+    "RogueBuffTag": 1273202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612740": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612740,
+    "RogueBuffTag": 1274002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612741": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612741,
+    "RogueBuffTag": 1274102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612742": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612742,
+    "RogueBuffTag": 1274202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612743": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612743,
+    "RogueBuffTag": 1274302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612744": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612744,
+    "RogueBuffTag": 1274402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612745": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612745,
+    "RogueBuffTag": 1274502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612746": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612746,
+    "RogueBuffTag": 1274602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612750": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612750,
+    "RogueBuffTag": 1275002,
+    "RogueBuffCategory": "Common"
+  },
+  "612751": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612751,
+    "RogueBuffTag": 1275102,
+    "RogueBuffCategory": "Common"
+  },
+  "612752": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612752,
+    "RogueBuffTag": 1275202,
+    "RogueBuffCategory": "Common"
+  },
+  "612753": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612753,
+    "RogueBuffTag": 1275302,
+    "RogueBuffCategory": "Common"
+  },
+  "612754": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612754,
+    "RogueBuffTag": 1275402,
+    "RogueBuffCategory": "Common"
+  },
+  "612755": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612755,
+    "RogueBuffTag": 1275502,
+    "RogueBuffCategory": "Common"
+  },
+  "612756": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612756,
+    "RogueBuffTag": 1275602,
+    "RogueBuffCategory": "Common"
+  },
+  "612757": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000302,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 612757,
+    "RogueBuffTag": 1275702,
+    "RogueBuffCategory": "Common"
+  },
+  "612830": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612830,
+    "RogueBuffTag": 1283002,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612831": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612831,
+    "RogueBuffTag": 1283102,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612832": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612832,
+    "RogueBuffTag": 1283202,
+    "RogueBuffCategory": "Legendary"
+  },
+  "612840": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612840,
+    "RogueBuffTag": 1284002,
+    "RogueBuffCategory": "Rare"
+  },
+  "612841": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612841,
+    "RogueBuffTag": 1284102,
+    "RogueBuffCategory": "Rare"
+  },
+  "612842": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000044
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612842,
+    "RogueBuffTag": 1284202,
+    "RogueBuffCategory": "Rare"
+  },
+  "612843": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612843,
+    "RogueBuffTag": 1284302,
+    "RogueBuffCategory": "Rare"
+  },
+  "612844": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612844,
+    "RogueBuffTag": 1284402,
+    "RogueBuffCategory": "Rare"
+  },
+  "612845": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000045
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612845,
+    "RogueBuffTag": 1284502,
+    "RogueBuffCategory": "Rare"
+  },
+  "612846": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612846,
+    "RogueBuffTag": 1284602,
+    "RogueBuffCategory": "Rare"
+  },
+  "612850": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612850,
+    "RogueBuffTag": 1285002,
+    "RogueBuffCategory": "Common"
+  },
+  "612851": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612851,
+    "RogueBuffTag": 1285102,
+    "RogueBuffCategory": "Common"
+  },
+  "612852": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612852,
+    "RogueBuffTag": 1285202,
+    "RogueBuffCategory": "Common"
+  },
+  "612853": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612853,
+    "RogueBuffTag": 1285302,
+    "RogueBuffCategory": "Common"
+  },
+  "612854": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000045
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612854,
+    "RogueBuffTag": 1285402,
+    "RogueBuffCategory": "Common"
+  },
+  "612855": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      61000045
+    ],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612855,
+    "RogueBuffTag": 1285502,
+    "RogueBuffCategory": "Common"
+  },
+  "612856": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612856,
+    "RogueBuffTag": 1285602,
+    "RogueBuffCategory": "Common"
+  },
+  "612857": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 2,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 6000901,
+    "IsShow": true,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 128,
+    "MazeBuffID": 612857,
+    "RogueBuffTag": 1285702,
+    "RogueBuffCategory": "Common"
+  },
+  "620001": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000001
+    ],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 120,
+    "MazeBuffID": 620001,
+    "RogueBuffTag": 2000110,
+    "RogueBuffCategory": "None"
+  },
+  "620002": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 121,
+    "MazeBuffID": 620002,
+    "RogueBuffTag": 2000210,
+    "RogueBuffCategory": "None"
+  },
+  "620003": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 122,
+    "MazeBuffID": 620003,
+    "RogueBuffTag": 2000310,
+    "RogueBuffCategory": "None"
+  },
+  "620004": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000013
+    ],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 123,
+    "MazeBuffID": 620004,
+    "RogueBuffTag": 2000410,
+    "RogueBuffCategory": "None"
+  },
+  "620005": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000004
+    ],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 124,
+    "MazeBuffID": 620005,
+    "RogueBuffTag": 2000510,
+    "RogueBuffCategory": "None"
+  },
+  "620006": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 125,
+    "MazeBuffID": 620006,
+    "RogueBuffTag": 2000610,
+    "RogueBuffCategory": "None"
+  },
+  "620007": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000003
+    ],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 126,
+    "MazeBuffID": 620007,
+    "RogueBuffTag": 2000710,
+    "RogueBuffCategory": "None"
+  },
+  "620008": {
+    "AeonCrossIcon": "",
+    "UnlockIDList": [],
+    "ExtraEffectIDList": [
+      60000017
+    ],
+    "MazeBuffLevel": 10,
+    "RogueVersion": 1,
+    "AeonID": 0,
+    "BattleEventBuffType": "Normal",
+    "ActivityModuleID": 0,
+    "IsShow": false,
+    "HandbookUnlockDesc": {
+      "Hash": -1492272936
+    },
+    "RogueBuffType": 127,
+    "MazeBuffID": 620008,
+    "RogueBuffTag": 2000810,
+    "RogueBuffCategory": "None"
+  }
+}
